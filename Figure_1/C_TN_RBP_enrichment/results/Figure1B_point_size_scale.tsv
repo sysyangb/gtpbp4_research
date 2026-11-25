@@ -1,0 +1,7 @@
+property	value
+mapping	point area proportional to gene count
+minimum_observed_gene_count	10
+maximum_observed_gene_count	19
+legend_breaks	10/15
+maximum_point_size_mm	7.2
+special_AMFs_point_style	none

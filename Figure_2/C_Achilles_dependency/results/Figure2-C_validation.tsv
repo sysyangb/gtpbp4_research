@@ -1,0 +1,9 @@
+Check	Pass
+36 unique input genes	True
+20 exact GCT matches	True
+13 breast and 203 other cell lines	True
+independent per-gene availability and filtering counts	True
+independent target boxplot quantiles and whiskers	True
+four finite valid P values	True
+correct labels in editable SVG	True
+four exported figure formats	True

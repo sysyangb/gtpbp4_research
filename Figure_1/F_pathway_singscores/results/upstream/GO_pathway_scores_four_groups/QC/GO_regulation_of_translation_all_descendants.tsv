@@ -1,0 +1,117 @@
+depth	go_id	term_name	top_level_branch_go_id	top_level_branch_name	propagated_human_gene_count	direct_human_gene_count	included_in_GO_0006417_parent_score
+0	GO:0006417	regulation of translation			333	50	TRUE
+1	GO:0097167	circadian regulation of translation	GO:0097167	circadian regulation of translation	2	2	TRUE
+1	GO:0017148	negative regulation of translation	GO:0017148	negative regulation of translation	145	98	TRUE
+1	GO:0045727	positive regulation of translation	GO:0045727	positive regulation of translation	129	72	TRUE
+1	GO:2000765	regulation of cytoplasmic translation	GO:2000765	regulation of cytoplasmic translation	48	2	TRUE
+1	GO:0070129	regulation of mitochondrial translation	GO:0070129	regulation of mitochondrial translation	23	6	TRUE
+1	GO:0046011	regulation of oskar mRNA translation	GO:0046011	regulation of oskar mRNA translation	0	0	TRUE
+1	GO:0140243	regulation of translation at synapse	GO:0140243	regulation of translation at synapse	7	0	TRUE
+1	GO:0043143	regulation of translation by machinery localization	GO:0043143	regulation of translation by machinery localization	0	0	TRUE
+1	GO:0043555	regulation of translation in response to stress	GO:0043555	regulation of translation in response to stress	22	3	TRUE
+1	GO:1904803	regulation of translation involved in cellular response to UV	GO:1904803	regulation of translation involved in cellular response to UV	1	1	TRUE
+1	GO:0045974	regulation of translation, ncRNA-mediated	GO:0045974	regulation of translation, ncRNA-mediated	0	0	TRUE
+1	GO:0006448	regulation of translational elongation	GO:0006448	regulation of translational elongation	14	2	TRUE
+1	GO:0006446	regulation of translational initiation	GO:0006446	regulation of translational initiation	91	38	TRUE
+1	GO:0006449	regulation of translational termination	GO:0006449	regulation of translational termination	7	6	TRUE
+1	GO:0009386	translational attenuation	GO:0009386	translational attenuation	2	2	TRUE
+1	GO:0006451	translational readthrough	GO:0006451	translational readthrough	9	0	TRUE
+2	GO:0035278	miRNA-mediated gene silencing by inhibition of translation	GO:0017148	negative regulation of translation	19	19	TRUE
+2	GO:2000766	negative regulation of cytoplasmic translation	GO:0017148;GO:2000765	negative regulation of translation;regulation of cytoplasmic translation	15	11	TRUE
+2	GO:1903912	negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	GO:0006446	regulation of translational initiation	1	1	TRUE
+2	GO:0070130	negative regulation of mitochondrial translation	GO:0017148;GO:0070129	negative regulation of translation;regulation of mitochondrial translation	1	1	TRUE
+2	GO:0007319	negative regulation of oskar mRNA translation	GO:0017148;GO:0046011	negative regulation of translation;regulation of oskar mRNA translation	0	0	TRUE
+2	GO:0032055	negative regulation of translation in response to stress	GO:0017148;GO:0043555	negative regulation of translation;regulation of translation in response to stress	7	3	TRUE
+2	GO:0045900	negative regulation of translational elongation	GO:0006448;GO:0017148	regulation of translational elongation;negative regulation of translation	7	1	TRUE
+2	GO:0045902	negative regulation of translational fidelity	GO:0017148	negative regulation of translation	0	0	TRUE
+2	GO:0045947	negative regulation of translational initiation	GO:0006446;GO:0017148	regulation of translational initiation;negative regulation of translation	32	20	TRUE
+2	GO:0045904	negative regulation of translational termination	GO:0006449;GO:0017148	regulation of translational termination;negative regulation of translation	0	0	TRUE
+2	GO:2000767	positive regulation of cytoplasmic translation	GO:0045727;GO:2000765	positive regulation of translation;regulation of cytoplasmic translation	18	18	TRUE
+2	GO:0070131	positive regulation of mitochondrial translation	GO:0045727;GO:0070129	positive regulation of translation;regulation of mitochondrial translation	16	16	TRUE
+2	GO:0046012	positive regulation of oskar mRNA translation	GO:0045727;GO:0046011	positive regulation of translation;regulation of oskar mRNA translation	0	0	TRUE
+2	GO:0032056	positive regulation of translation in response to stress	GO:0043555;GO:0045727	regulation of translation in response to stress;positive regulation of translation	8	2	TRUE
+2	GO:0045975	positive regulation of translation, ncRNA-mediated	GO:0045727;GO:0045974	positive regulation of translation;regulation of translation, ncRNA-mediated	0	0	TRUE
+2	GO:0045901	positive regulation of translational elongation	GO:0006448;GO:0045727	regulation of translational elongation;positive regulation of translation	3	2	TRUE
+2	GO:0045903	positive regulation of translational fidelity	GO:0045727	positive regulation of translation	0	0	TRUE
+2	GO:0045948	positive regulation of translational initiation	GO:0006446;GO:0045727	regulation of translational initiation;positive regulation of translation	29	20	TRUE
+2	GO:0045905	positive regulation of translational termination	GO:0006449;GO:0045727	regulation of translational termination;positive regulation of translation	1	1	TRUE
+2	GO:0030631	pyrrolysine incorporation	GO:0006451	translational readthrough	0	0	TRUE
+2	GO:1990497	regulation of cytoplasmic translation in response to stress	GO:0043555;GO:2000765	regulation of translation in response to stress;regulation of cytoplasmic translation	1	0	TRUE
+2	GO:1900247	regulation of cytoplasmic translational elongation	GO:0006448	regulation of translational elongation	5	0	TRUE
+2	GO:1904688	regulation of cytoplasmic translational initiation	GO:0006446;GO:2000765	regulation of translational initiation;regulation of cytoplasmic translation	15	0	TRUE
+2	GO:1990580	regulation of cytoplasmic translational termination	GO:0006449;GO:2000765	regulation of translational termination;regulation of cytoplasmic translation	0	0	TRUE
+2	GO:0060735	regulation of eIF2 alpha phosphorylation by dsRNA	GO:0006446	regulation of translational initiation	0	0	TRUE
+2	GO:0010999	regulation of eIF2 alpha phosphorylation by heme	GO:0006446	regulation of translational initiation	0	0	TRUE
+2	GO:0060734	regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	GO:0006446	regulation of translational initiation	0	0	TRUE
+2	GO:1905082	regulation of mitochondrial translational elongation	GO:0006448	regulation of translational elongation	0	0	TRUE
+2	GO:0070132	regulation of mitochondrial translational initiation	GO:0006446;GO:0070129	regulation of translational initiation;regulation of mitochondrial translation	0	0	TRUE
+2	GO:1904569	regulation of selenocysteine incorporation	GO:0006448	regulation of translational elongation	1	0	TRUE
+2	GO:0140245	regulation of translation at postsynapse	GO:0140243	regulation of translation at synapse	4	1	TRUE
+2	GO:0140244	regulation of translation at presynapse	GO:0140243	regulation of translation at synapse	3	0	TRUE
+2	GO:0099547	regulation of translation at synapse, modulating synaptic transmission	GO:0140243	regulation of translation at synapse	6	0	TRUE
+2	GO:0036490	regulation of translation in response to endoplasmic reticulum stress	GO:0043555	regulation of translation in response to stress	11	3	TRUE
+2	GO:0043557	regulation of translation in response to osmotic stress	GO:0043555	regulation of translation in response to stress	0	0	TRUE
+2	GO:2001124	regulation of translational frameshifting	GO:0006448	regulation of translational elongation	3	0	TRUE
+2	GO:0006447	regulation of translational initiation by iron	GO:0006446	regulation of translational initiation	1	0	TRUE
+2	GO:1990983	regulation of translational initiation by tRNA modification	GO:0006446	regulation of translational initiation	1	1	TRUE
+2	GO:0043558	regulation of translational initiation in response to stress	GO:0006446;GO:0043555	regulation of translational initiation;regulation of translation in response to stress	9	2	TRUE
+2	GO:0001514	selenocysteine incorporation	GO:0006451	translational readthrough	9	9	TRUE
+2	GO:0070549	siRNA-mediated gene silencing by inhibition of translation	GO:0017148	negative regulation of translation	0	0	TRUE
+2	GO:0039705	viral translational readthrough	GO:0006451	translational readthrough	0	0	TRUE
+3	GO:0141014	cytosolic ribosome hibernation	GO:0017148;GO:2000765	negative regulation of translation;regulation of cytoplasmic translation	4	4	TRUE
+3	GO:1900248	negative regulation of cytoplasmic translational elongation	GO:0006448;GO:0017148;GO:2000765	regulation of translational elongation;negative regulation of translation;regulation of cytoplasmic translation	2	2	TRUE
+3	GO:1904689	negative regulation of cytoplasmic translational initiation	GO:0006446;GO:0017148;GO:2000765	regulation of translational initiation;negative regulation of translation;regulation of cytoplasmic translation	7	1	TRUE
+3	GO:1990625	negative regulation of cytoplasmic translational initiation in response to stress	GO:0017148;GO:0043555	negative regulation of translation;regulation of translation in response to stress	0	0	TRUE
+3	GO:1901191	negative regulation of formation of translation initiation ternary complex	GO:0006446;GO:0017148	regulation of translational initiation;negative regulation of translation	0	0	TRUE
+3	GO:1905083	negative regulation of mitochondrial translational elongation	GO:0006448;GO:0017148;GO:0070129	regulation of translational elongation;negative regulation of translation;regulation of mitochondrial translation	0	0	TRUE
+3	GO:0070133	negative regulation of mitochondrial translational initiation	GO:0006446;GO:0017148;GO:0070129	regulation of translational initiation;negative regulation of translation;regulation of mitochondrial translation	0	0	TRUE
+3	GO:1904570	negative regulation of selenocysteine incorporation	GO:0006448;GO:0017148	regulation of translational elongation;negative regulation of translation	1	1	TRUE
+3	GO:1902010	negative regulation of translation in response to endoplasmic reticulum stress	GO:0017148;GO:0043555	negative regulation of translation;regulation of translation in response to stress	3	3	TRUE
+3	GO:0032061	negative regulation of translation in response to osmotic stress	GO:0017148;GO:0043555	negative regulation of translation;regulation of translation in response to stress	0	0	TRUE
+3	GO:0032938	negative regulation of translation in response to oxidative stress	GO:0006446;GO:0043555	regulation of translational initiation;regulation of translation in response to stress	1	1	TRUE
+3	GO:2001125	negative regulation of translational frameshifting	GO:0006448;GO:0017148	regulation of translational elongation;negative regulation of translation	3	3	TRUE
+3	GO:0045993	negative regulation of translational initiation by iron	GO:0006446;GO:0017148	regulation of translational initiation;negative regulation of translation	1	1	TRUE
+3	GO:0071263	negative regulation of translational initiation in response to starvation	GO:0017148;GO:0043555	negative regulation of translation;regulation of translation in response to stress	0	0	TRUE
+3	GO:0032057	negative regulation of translational initiation in response to stress	GO:0006446;GO:0017148	regulation of translational initiation;negative regulation of translation	6	5	TRUE
+3	GO:1900249	positive regulation of cytoplasmic translational elongation	GO:0006448;GO:0045727	regulation of translational elongation;positive regulation of translation	1	1	TRUE
+3	GO:1904690	positive regulation of cytoplasmic translational initiation	GO:0006446;GO:0045727;GO:2000765	regulation of translational initiation;positive regulation of translation;regulation of cytoplasmic translation	7	2	TRUE
+3	GO:0010892	positive regulation of mitochondrial translation in response to stress	GO:0043555;GO:0045727;GO:0070129	regulation of translation in response to stress;positive regulation of translation;regulation of mitochondrial translation	0	0	TRUE
+3	GO:1905084	positive regulation of mitochondrial translational elongation	GO:0006448;GO:0045727	regulation of translational elongation;positive regulation of translation	0	0	TRUE
+3	GO:0070134	positive regulation of mitochondrial translational initiation	GO:0006446;GO:0045727;GO:0070129	regulation of translational initiation;positive regulation of translation;regulation of mitochondrial translation	0	0	TRUE
+3	GO:1904571	positive regulation of selenocysteine incorporation	GO:0006448;GO:0045727	regulation of translational elongation;positive regulation of translation	0	0	TRUE
+3	GO:0036493	positive regulation of translation in response to endoplasmic reticulum stress	GO:0043555;GO:0045727	regulation of translation in response to stress;positive regulation of translation	5	4	TRUE
+3	GO:0032062	positive regulation of translation in response to osmotic stress	GO:0043555;GO:0045727	regulation of translation in response to stress;positive regulation of translation	0	0	TRUE
+3	GO:0032939	positive regulation of translation in response to oxidative stress	GO:0043555;GO:0045727	regulation of translation in response to stress;positive regulation of translation	0	0	TRUE
+3	GO:2001126	positive regulation of translational frameshifting	GO:0006448;GO:0045727	regulation of translational elongation;positive regulation of translation	0	0	TRUE
+3	GO:0045994	positive regulation of translational initiation by iron	GO:0006446;GO:0045727	regulation of translational initiation;positive regulation of translation	0	0	TRUE
+3	GO:0071264	positive regulation of translational initiation in response to starvation	GO:0043555;GO:0045727	regulation of translation in response to stress;positive regulation of translation	1	1	TRUE
+3	GO:0032058	positive regulation of translational initiation in response to stress	GO:0006446;GO:0045727	regulation of translational initiation;positive regulation of translation	3	1	TRUE
+3	GO:1903674	regulation of cap-dependent translational initiation	GO:0006446;GO:2000765	regulation of translational initiation;regulation of cytoplasmic translation	3	0	TRUE
+3	GO:1903677	regulation of cap-independent translational initiation	GO:0006446;GO:2000765	regulation of translational initiation;regulation of cytoplasmic translation	3	0	TRUE
+3	GO:1903270	regulation of cytoplasmic translational elongation through polyproline stretches	GO:0006448	regulation of translational elongation	0	0	TRUE
+3	GO:0140018	regulation of cytoplasmic translational fidelity	GO:0006448	regulation of translational elongation	2	2	TRUE
+3	GO:1990611	regulation of cytoplasmic translational initiation in response to stress	GO:0006446;GO:0043555;GO:2000765	regulation of translational initiation;regulation of translation in response to stress;regulation of cytoplasmic translation	1	1	TRUE
+3	GO:1901193	regulation of formation of translation preinitiation complex	GO:0006446;GO:2000765	regulation of translational initiation;regulation of cytoplasmic translation	6	0	TRUE
+3	GO:0099578	regulation of translation at postsynapse, modulating synaptic transmission	GO:0140243	regulation of translation at synapse	3	3	TRUE
+3	GO:0099577	regulation of translation at presynapse, modulating synaptic transmission	GO:0140243	regulation of translation at synapse	3	3	TRUE
+3	GO:0043556	regulation of translation in response to oxidative stress	GO:0017148;GO:0043555	negative regulation of translation;regulation of translation in response to stress	1	0	TRUE
+3	GO:0036491	regulation of translation initiation in response to endoplasmic reticulum stress	GO:0006446;GO:0043555	regulation of translational initiation;regulation of translation in response to stress	4	3	TRUE
+3	GO:0036496	regulation of translational initiation by eIF2 alpha dephosphorylation	GO:0006446;GO:0043555	regulation of translational initiation;regulation of translation in response to stress	0	0	TRUE
+3	GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	GO:0006446;GO:0043555	regulation of translational initiation;regulation of translation in response to stress	1	1	TRUE
+3	GO:0043561	regulation of translational initiation in response to osmotic stress	GO:0006446;GO:0043555	regulation of translational initiation;regulation of translation in response to stress	0	0	TRUE
+3	GO:0071262	regulation of translational initiation in response to starvation	GO:0006446;GO:0043555	regulation of translational initiation;regulation of translation in response to stress	1	0	TRUE
+3	GO:0080149	sucrose induced translational repression	GO:0017148;GO:0043555	negative regulation of translation;regulation of translation in response to stress	0	0	TRUE
+4	GO:0036497	eIF2alpha dephosphorylation in response to endoplasmic reticulum stress	GO:0006446;GO:0043555	regulation of translational initiation;regulation of translation in response to stress	0	0	TRUE
+4	GO:0036492	eiF2alpha phosphorylation in response to endoplasmic reticulum stress	GO:0006446;GO:0043555	regulation of translational initiation;regulation of translation in response to stress	0	0	TRUE
+4	GO:1903675	negative regulation of cap-dependent translational initiation	GO:0006446;GO:0017148;GO:2000765	regulation of translational initiation;negative regulation of translation;regulation of cytoplasmic translation	0	0	TRUE
+4	GO:1903678	negative regulation of cap-independent translational initiation	GO:0006446;GO:0017148;GO:2000765	regulation of translational initiation;negative regulation of translation;regulation of cytoplasmic translation	0	0	TRUE
+4	GO:1903271	negative regulation of cytoplasmic translational elongation through polyproline stretches	GO:0006448;GO:0017148;GO:2000765	regulation of translational elongation;negative regulation of translation;regulation of cytoplasmic translation	0	0	TRUE
+4	GO:1901194	negative regulation of formation of translation preinitiation complex	GO:0006446;GO:0017148;GO:2000765	regulation of translational initiation;negative regulation of translation;regulation of cytoplasmic translation	6	6	TRUE
+4	GO:0036495	negative regulation of translation initiation in response to endoplasmic reticulum stress	GO:0006446;GO:0017148;GO:0043555	regulation of translational initiation;negative regulation of translation;regulation of translation in response to stress	0	0	TRUE
+4	GO:0032063	negative regulation of translational initiation in response to osmotic stress	GO:0006446;GO:0017148;GO:0043555	regulation of translational initiation;negative regulation of translation;regulation of translation in response to stress	0	0	TRUE
+4	GO:1903676	positive regulation of cap-dependent translational initiation	GO:0006446;GO:0045727;GO:2000765	regulation of translational initiation;positive regulation of translation;regulation of cytoplasmic translation	3	3	TRUE
+4	GO:1903679	positive regulation of cap-independent translational initiation	GO:0006446;GO:0045727;GO:2000765	regulation of translational initiation;positive regulation of translation;regulation of cytoplasmic translation	3	3	TRUE
+4	GO:1903272	positive regulation of cytoplasmic translational elongation through polyproline stretches	GO:0006448;GO:0045727	regulation of translational elongation;positive regulation of translation	0	0	TRUE
+4	GO:1901195	positive regulation of formation of translation preinitiation complex	GO:0006446;GO:2000765	regulation of translational initiation;regulation of cytoplasmic translation	0	0	TRUE
+4	GO:0036494	positive regulation of translation initiation in response to endoplasmic reticulum stress	GO:0006446;GO:0043555;GO:0045727	regulation of translational initiation;regulation of translation in response to stress;positive regulation of translation	1	1	TRUE
+4	GO:0032064	positive regulation of translational initiation in response to osmotic stress	GO:0006446;GO:0043555;GO:0045727	regulation of translational initiation;regulation of translation in response to stress;positive regulation of translation	0	0	TRUE

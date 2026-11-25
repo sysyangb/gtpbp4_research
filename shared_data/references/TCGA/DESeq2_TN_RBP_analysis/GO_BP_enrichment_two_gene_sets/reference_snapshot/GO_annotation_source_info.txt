@@ -1,0 +1,13 @@
+GO human annotation source: https://current.geneontology.org/annotations/goa_human.gaf.gz
+GAF header date-generated: 2026-05-21T08:10
+GAF header GO version: http://purl.obolibrary.org/obo/go/releases/2026-04-27/extensions/go-plus.ofn
+Local GAF snapshot timestamp: 2026-08-26 11:42:19 CST
+GO ontology source: https://current.geneontology.org/ontology/go-basic.obo
+OBO data-version: releases/2026-07-26
+Local OBO snapshot timestamp: 2026-08-26 11:42:25 CST
+Direct annotations with NOT qualifiers were excluded.
+Biological Process annotations were propagated through is_a and part_of ancestors.
+Primary gene-symbol matches were supplemented by exact GOA synonym matches and deduplicated.
+ORA test: one-sided hypergeometric over-representation; BH adjustment retained in result tables.
+Eligible term background size: 10-500 mapped genes.
+Plot ranking: strict raw-P Top 10 among terms with at least 3 candidate genes.

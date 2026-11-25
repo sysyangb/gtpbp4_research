@@ -1,0 +1,16 @@
+"display_rank"	"term_id"	"term_name"	"source_type"	"pvalue"	"p_adjust_BH"	"minus_log10_pvalue"	"fold_enrichment"	"display_name"	"display_label"
+1	"GO:0002181"	"cytoplasmic translation"	"GO Biological Process"	6.98660698090205e-39	3.82516732204387e-35	38.155733686519	10.2013054094666	"Cytoplasmic translation"	"Cytoplasmic translation"
+2	"GO:0042254"	"ribosome biogenesis"	"GO Biological Process"	5.86731969184456e-37	1.60617876564245e-33	36.231560247795	7.41038223140496	"Ribosome biogenesis"	"Ribosome biogenesis"
+3	"GO:0022613"	"ribonucleoprotein complex biogenesis"	"GO Biological Process"	3.30798153171403e-36	6.03706629537811e-33	35.4804369237559	5.70859980575764	"Ribonucleoprotein complex biogenesis"	"Ribonucleoprotein complex
+biogenesis"
+4	"CUSTOM_AMFS"	"Assembly and maturation factors (AMFs)"	"Custom AMFs"	7.93361030677342e-32	1.08591291073961e-28	31.1005291355703	8.03571016721122	"Assembly and maturation factors (AMFs)"	"Assembly and maturation factors
+(AMFs)"
+5	"GO:0006412"	"translation"	"GO Biological Process"	1.75489539441302e-29	1.60134204740188e-26	28.7557487657982	5.39691703127532	"Translation"	"Translation"
+6	"GO:0160307"	"protein biosynthetic process"	"GO Biological Process"	1.75489539441302e-29	1.60134204740188e-26	28.7557487657982	5.39691703127532	"Protein biosynthetic process"	"Protein biosynthetic process"
+7	"GO:0061013"	"regulation of mRNA catabolic process"	"GO Biological Process"	3.815479942651e-29	2.98425038371632e-26	28.418450825118	7.51097565536068	"Regulation of mRNA catabolic process"	"Regulation of mRNA catabolic
+process"
+8	"GO:1903311"	"regulation of mRNA metabolic process"	"GO Biological Process"	6.53791832197903e-29	4.4743878516044e-26	28.1845605093499	5.89582876228089	"Regulation of mRNA metabolic process"	"Regulation of mRNA metabolic
+process"
+9	"GO:0010608"	"post-transcriptional regulation of gene expression"	"GO Biological Process"	1.04090613536618e-27	6.33217899014427e-25	26.9825884316138	4.73167263358651	"Post-transcriptional regulation of gene expression"	"Post-transcriptional regulation of
+gene expression"
+10	"GO:0006364"	"rRNA processing"	"GO Biological Process"	1.23759293756153e-25	6.77582133314939e-23	24.9074221776432	7.2709534368071	"rRNA processing"	"rRNA processing"

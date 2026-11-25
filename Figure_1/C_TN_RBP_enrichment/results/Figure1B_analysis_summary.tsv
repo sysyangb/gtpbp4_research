@@ -1,0 +1,16 @@
+metric	value
+Input TN RBP genes	131
+Mapped TN RBP genes	125
+Combined mapped background genes	16329
+Eligible GO BP plus AMFs terms	5468
+Displayed pathways	10
+Observed Top10 gene-count range	10-19
+Maximum point size mm	7.2
+AMFs natural rank	1
+AMFs hits	15
+AMFs fold enrichment	9.466087
+AMFs raw P	5.6146587e-11
+AMFs BH FDR	3.0700954e-07
+Minimum plotted text size pt	10
+Figure width mm	185
+Figure height mm	110

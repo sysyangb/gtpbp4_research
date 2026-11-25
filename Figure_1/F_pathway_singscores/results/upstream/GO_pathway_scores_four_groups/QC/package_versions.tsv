@@ -1,0 +1,15 @@
+package	version	library_path
+data.table	1.17.8	/Users/yangbing/soft/miniconda3/lib/R/library
+matrixStats	1.5.0	/Users/yangbing/soft/miniconda3/lib/R/library
+ggplot2	4.0.2	/Users/yangbing/soft/miniconda3/lib/R/library
+svglite	2.2.2	/Users/yangbing/soft/miniconda3/lib/R/library
+ragg	1.5.0	/Users/yangbing/soft/miniconda3/lib/R/library
+GSVA	2.4.9	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/06scores/.Rlib
+singscore	1.30.0	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/06scores/.Rlib
+BiocParallel	1.44.0	/Users/yangbing/soft/miniconda3/lib/R/library
+GSEABase	1.72.0	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/06scores/.Rlib
+lme4	2.0.6	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/06scores/.Rlib
+lmerTest	3.2.1	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/06scores/.Rlib
+emmeans	2.0.4	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/06scores/.Rlib
+sandwich	3.1.3	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/06scores/.Rlib
+lmtest	0.9.40	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/06scores/.Rlib

@@ -1,0 +1,6 @@
+PASS: original counts and FDR/FC decisions matched the published figure.
+PASS: patient-stratum totals and all four sample-group totals preserved in independently reproduced resamples.
+PASS: first 12 joint draws exactly match an independent base-R full BH calculation (all 9 counts per draw).
+PASS: centered two-sided bootstrap P values reproduced from saved draws.
+PASS: Holm and BH corrections independently reproduced.
+Scope: one-step fixed-nuisance approximation, not a full nuisance-parameter refit bootstrap.

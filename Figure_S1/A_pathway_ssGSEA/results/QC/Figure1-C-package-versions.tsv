@@ -1,0 +1,5 @@
+package	version
+data.table	1.17.8
+ggplot2	4.0.2
+svglite	2.2.2
+ragg	1.5.0

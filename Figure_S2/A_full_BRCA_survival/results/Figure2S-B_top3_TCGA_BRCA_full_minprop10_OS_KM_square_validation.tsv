@@ -1,0 +1,8 @@
+check	pass
+only top three genes	TRUE
+same full cohort and selected-cutoff groups	TRUE
+all canvases square	TRUE
+all plot regions square	TRUE
+Arial at least 10 pt	TRUE
+nominal P reproduced	TRUE
+all exports nonempty	TRUE

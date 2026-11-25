@@ -1,0 +1,11 @@
+check	pass
+all_text_at_least_14pt	TRUE
+ten_bars	TRUE
+zero_baseline	TRUE
+exact_bar_lengths	TRUE
+exact_fold_enrichment_fill	TRUE
+original_term_order	TRUE
+no_count_aesthetic	TRUE
+no_count_legend	TRUE
+editable_svg_text	TRUE
+all_terms_in_svg	TRUE

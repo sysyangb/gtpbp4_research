@@ -1,0 +1,10 @@
+method,direction,n
+TREAT_lfc1_BH05,Up,218
+TREAT_lfc1_BH05,Down,1793
+TREAT_lfc1_BH05,Not_significant,663
+eBayes_BH05_and_absFCgt1,Up,275
+eBayes_BH05_and_absFCgt1,Down,2010
+eBayes_BH05_and_absFCgt1,Not_significant,389
+legacy_rawP05_and_absFCgt1,Up,277
+legacy_rawP05_and_absFCgt1,Down,2013
+legacy_rawP05_and_absFCgt1,Not_significant,384

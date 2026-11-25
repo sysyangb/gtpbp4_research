@@ -1,0 +1,10 @@
+metric,value
+proDA_input_proteins,3360
+proDA_up_BH05_absFCgt1,290
+proDA_down_BH05_absFCgt1,2418
+limma_proDA_common_proteins,2674
+common_log2FC_Pearson,0.9998245251885046
+common_log2FC_Spearman,0.9996961137011048
+common_direction_agreement,0.9996260284218399
+consensus_up_limmaTREAT_and_proDA,216
+consensus_down_limmaTREAT_and_proDA,1789

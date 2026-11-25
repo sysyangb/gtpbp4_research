@@ -1,0 +1,38 @@
+TCGA-BRCA receptor label QC
+
+Expression samples: 1226
+Expression patients: 1095
+Counts/TPM headers identical: YES
+Sample types: {'METASTATIC': 7, 'PRIMARY_TUMOR': 1106, 'SOLID_TISSUE_NORMAL': 113}
+Recommended sample labels: {'NON_TN': 882, 'NORMAL': 113, 'TN': 170, 'UNKNOWN': 61}
+Best-available sample labels: {'NON_TN': 882, 'NORMAL': 113, 'TN': 178, 'UNKNOWN': 53}
+Recommended patient labels: {'NON_TN': 865, 'TN': 169, 'UNKNOWN': 61}
+GDC Clinical Supplement patients: 1097
+Nature 2012 curated patients: 825
+Nature 2012 Xena conclusive comparisons: 2323
+Nature 2012 Xena conclusive discrepancies: 0
+
+Quality flag counts:
+  GDC_HER2_IHC_FISH_CONFLICT: 4
+  INCOMPLETE_RECEPTOR_STATUS: 53
+  METASTATIC_USES_PATIENT_LEVEL_RECEPTORS: 7
+  MISSING_GDC_PATIENT_ROW: 1
+  NORMAL_NOT_RECEPTOR_CLASSIFIED: 113
+  OK: 1008
+  RECEPTOR_CONFLICT_CLASS_STABLE: 25
+  RECEPTOR_CONFLICT_CLASS_STABLE|GDC_HER2_IHC_FISH_CONFLICT: 7
+  SOURCE_CLASS_CONFLICT: 4
+  SOURCE_CLASS_CONFLICT|GDC_HER2_IHC_FISH_CONFLICT: 4
+
+Input SHA-256:
+  TCGA-BRCA_counts.txt: 94d2d6a3733a3030de61f22ba7789fa6082e94c157d2c70f7b392b834422f144
+  TCGA-BRCA_TPM.txt: 55c7fce5de017cd483d91619ae8b4185675a41e06e0ad0f1b2483d1f690272aa
+  nationwidechildrens.org_clinical_patient_brca.txt: 465a3d7be11c2f887c853d622037fadb15d45bea40aee65bc685fffbe20cfda7
+  cbioportal_brca_tcga_pub_data_clinical_sample.txt: c226ea5450775f9f66d55c92c4fcd46dd2e1963dccaa68693702f1b596c3c588
+  UCSC_Xena_TCGA_BRCA_clinicalMatrix.tsv: 39eb3be0fb86e6a577bd2cc01502a7fa5a271e1e1cba294e9dc644ad99580d7f
+  GDC_BRCA_2012_Final_Full_Sample_Summary.tsv: 5e2eb3c6e330c049c2d7b0f6839d91f091a3f2a2fedd326503919c453643e024
+
+Rule: TN requires ER=Negative, PR=Negative, and HER2=Negative.
+Rule: NON_TN requires at least one receptor=Positive.
+Rule: missing/equivocal/indeterminate/conflicting evidence is not forced into NON_TN.
+Rule: sample type code 11 is NORMAL; codes 01 and 06 are tumor samples.

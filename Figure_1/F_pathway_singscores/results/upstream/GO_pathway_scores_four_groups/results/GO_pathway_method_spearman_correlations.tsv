@@ -1,0 +1,37 @@
+signature	method1	method2	spearman_rho
+RIBI	singscore	singscore	1
+RIBI	ssGSEA	singscore	0.988427550505741
+RIBI	mean_z	singscore	0.490083389419161
+RIBI	singscore	ssGSEA	0.988427550505741
+RIBI	ssGSEA	ssGSEA	1
+RIBI	mean_z	ssGSEA	0.491775053233342
+RIBI	singscore	mean_z	0.490083389419161
+RIBI	ssGSEA	mean_z	0.491775053233342
+RIBI	mean_z	mean_z	1
+POL-I	singscore	singscore	1
+POL-I	ssGSEA	singscore	0.999521839883876
+POL-I	mean_z	singscore	0.490197419762231
+POL-I	singscore	ssGSEA	0.999521839883876
+POL-I	ssGSEA	ssGSEA	1
+POL-I	mean_z	ssGSEA	0.49421609229222
+POL-I	singscore	mean_z	0.490197419762231
+POL-I	ssGSEA	mean_z	0.49421609229222
+POL-I	mean_z	mean_z	1
+Translation	singscore	singscore	1
+Translation	ssGSEA	singscore	0.975807558655811
+Translation	mean_z	singscore	0.480508000038747
+Translation	singscore	ssGSEA	0.975807558655811
+Translation	ssGSEA	ssGSEA	1
+Translation	mean_z	ssGSEA	0.504736330976851
+Translation	singscore	mean_z	0.480508000038747
+Translation	ssGSEA	mean_z	0.504736330976851
+Translation	mean_z	mean_z	1
+Regulator of Translation	singscore	singscore	1
+Regulator of Translation	ssGSEA	singscore	0.90473608882644
+Regulator of Translation	mean_z	singscore	0.42111423985402
+Regulator of Translation	singscore	ssGSEA	0.90473608882644
+Regulator of Translation	ssGSEA	ssGSEA	1
+Regulator of Translation	mean_z	ssGSEA	0.51228762403756
+Regulator of Translation	singscore	mean_z	0.42111423985402
+Regulator of Translation	ssGSEA	mean_z	0.51228762403756
+Regulator of Translation	mean_z	mean_z	1

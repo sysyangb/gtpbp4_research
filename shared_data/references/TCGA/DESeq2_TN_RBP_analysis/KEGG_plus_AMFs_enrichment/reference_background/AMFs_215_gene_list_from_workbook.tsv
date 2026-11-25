@@ -1,0 +1,216 @@
+workbook_order	gene_id	workbook_gene_symbol	functional_annotation	core_AMF
+1	ENSG00000275700	AATF	early assembly factors	Yes
+2	ENSG00000146109	ABT1	early assembly factors	Yes
+3	ENSG00000113460	BRIX1	nucleolar steps of 60S maturation	Yes
+4	ENSG00000071462	BUD23	early assembly factors;PP	Yes
+5	ENSG00000112578	BYSL	early assembly factors,cytoplasmic pre_40S maturation;PP	Yes
+6	ENSG00000143633	C1orf131	early assembly factors	Yes
+7	ENSG00000110104	CCDC86	nucleoplasmic steps of pre_60S maturation	Yes
+8	ENSG00000184220	CMSS1	early assembly factors	Yes
+9	ENSG00000213923	CSNK1E	nucleoplasmic steps of pre_40S maturation.;PP	Yes
+10	ENSG00000101266	CSNK2A1	early assembly factors	Yes
+11	ENSG00000070770	CSNK2A2	early assembly factors	Yes
+12	ENSG00000204435	CSNK2B	early assembly factors	Yes
+13	ENSG00000164934	DCAF13	early assembly factors;PP	Yes
+14	ENSG00000124228	DDX27	nucleolar steps of 60S maturation	Yes
+15	ENSG00000125485	DDX31	nucleolar steps of 60S maturation	Yes
+16	ENSG00000105671	DDX49	early assembly factors;PP	Yes
+17	ENSG00000278053	DDX52	early assembly factors;PP	Yes
+18	ENSG00000123064	DDX54	nucleolar steps of 60S maturation	Yes
+19	ENSG00000111364	DDX55	nucleolar steps of 60S maturation	Yes
+20	ENSG00000150990	DHX37	early assembly factors;PP	Yes
+21	ENSG00000130826	DKC1	PP	Yes
+22	ENSG00000081721	DUSP12	cytoplasmic pre_60S maturation	Yes
+23	ENSG00000117395	EBNA1BP2	nucleolar steps of 60S maturation;PP	Yes
+24	ENSG00000175376	EIF1AD	cytoplasmic pre_40S maturation	Yes
+25	ENSG00000141543	EIF4A3	early assembly factors	Yes
+26	ENSG00000242372	EIF6	nucleolar steps of 60S maturation,cytoplasmic pre_60S maturation	Yes
+27	ENSG00000268439	EMG1	early assembly factors	Yes
+28	ENSG00000171311	EXOSC1	PP	Yes
+29	ENSG00000130713	EXOSC2	PP	Yes
+30	ENSG00000107371	EXOSC3	PP	Yes
+31	ENSG00000178896	EXOSC4	PP	Yes
+32	ENSG00000077348	EXOSC5	PP	Yes
+33	ENSG00000120699	EXOSC8	PP	Yes
+34	ENSG00000123737	EXOSC9	PP	Yes
+35	ENSG00000105202	FBL	early assembly factors;PP	Yes
+36	ENSG00000109534	GAR1	PP	Yes
+37	ENSG00000134697	GNL2	nucleolar steps of 60S maturation	Yes
+38	ENSG00000163938	GNL3	nucleolar steps of 60S maturation,cytoplasmic pre_60S maturation;PP	Yes
+39	ENSG00000107937	GTPBP4	nucleolar steps of 60S maturation,cytoplasmic pre_60S maturation	Yes
+40	ENSG00000119285	HEATR1	early assembly factors;PP	Yes
+41	ENSG00000143621	ILF2	nucleoplasmic steps of pre_60S maturation	Yes
+42	ENSG00000129351	ILF3	nucleoplasmic steps of pre_60S maturation	Yes
+43	ENSG00000136718	IMP4	early assembly factors;PP	Yes
+44	ENSG00000143319	ISG20L2	PP	Yes
+45	ENSG00000129347	KRI1	early assembly factors	Yes
+46	ENSG00000001497	LAS1L	nucleolar steps of 60S maturation;PP	Yes
+47	ENSG00000041802	LSG1	cytoplasmic pre_60S maturation	Yes
+48	ENSG00000124383	MPHOSPH10	early assembly factors;PP	Yes
+49	ENSG00000278619	MRM1	PP	Yes
+50	ENSG00000122687	MRM2	PP	Yes
+51	ENSG00000053372	MRTO4	nucleolar steps of 60S maturation,cytoplasmic pre_60S maturation	Yes
+52	ENSG00000132382	MYBBP1A	early assembly factors,nucleolar steps of 60S maturation	Yes
+53	ENSG00000135372	NAT10	early assembly factors;PP	Yes
+54	ENSG00000145912	NHP2	PP	Yes
+55	ENSG00000186416	NKRF	early assembly factors	Yes
+56	ENSG00000073536	NLE1	nucleolar steps of 60S maturation	Yes
+57	ENSG00000141101	NOB1	early assembly factors,nucleoplasmic steps of pre_40S maturation.,cytoplasmic pre_40S maturation;PP	Yes
+58	ENSG00000188976	NOC2L	nucleolar steps of 60S maturation	Yes
+59	ENSG00000184967	NOC4L	early assembly factors;PP	Yes
+60	ENSG00000115761	NOL10	early assembly factors	Yes
+61	ENSG00000130935	NOL11	early assembly factors;PP	Yes
+62	ENSG00000273899	NOL12	PP	Yes
+63	ENSG00000165271	NOL6	early assembly factors;PP	Yes
+64	ENSG00000146909	NOM1	early assembly factors	Yes
+65	ENSG00000087269	NOP14	early assembly factors;PP	Yes
+66	ENSG00000048162	NOP16	nucleolar steps of 60S maturation	Yes
+67	ENSG00000111641	NOP2	early assembly factors,nucleolar steps of 60S maturation;PP	Yes
+68	ENSG00000101361	NOP56	early assembly factors;PP	Yes
+69	ENSG00000055044	NOP58	early assembly factors;PP	Yes
+70	ENSG00000143748	NVL	nucleolar steps of 60S maturation	Yes
+71	ENSG00000170515	PA2G4	nucleolar steps of 60S maturation,cytoplasmic pre_60S maturation	Yes
+72	ENSG00000140694	PARN	nucleoplasmic steps of pre_40S maturation.	Yes
+73	ENSG00000148843	PDCD11	early assembly factors,nucleolar steps of 60S maturation;PP	Yes
+74	ENSG00000141456	PELP1	nucleoplasmic steps of pre_60S maturation;PP	Yes
+75	ENSG00000100029	PES1	nucleolar steps of 60S maturation;PP	Yes
+76	ENSG00000115946	PNO1	early assembly factors,cytoplasmic pre_40S maturation;PP	Yes
+77	ENSG00000130810	PPAN	nucleolar steps of 60S maturation	Yes
+78	ENSG00000080608	PUM3	nucleolar steps of 60S maturation	Yes
+79	ENSG00000122965	RBM19	early assembly factors	Yes
+80	ENSG00000106344	RBM28	nucleolar steps of 60S maturation;PP	Yes
+81	ENSG00000188739	RBM34	nucleolar steps of 60S maturation	Yes
+82	ENSG00000124784	RIOK1	nucleoplasmic steps of pre_40S maturation.,cytoplasmic pre_40S maturation;PP	Yes
+83	ENSG00000197498	RPF2	nucleolar steps of 60S maturation	Yes
+84	ENSG00000241370	RPP21	PP	Yes
+85	ENSG00000178718	RPP25	PP	Yes
+86	ENSG00000152464	RPP38	PP	Yes
+87	ENSG00000124787	RPP40	PP	Yes
+88	ENSG00000160214	RRP1	nucleolar steps of 60S maturation;PP	Yes
+89	ENSG00000052749	RRP12	early assembly factors,cytoplasmic pre_40S maturation	Yes
+90	ENSG00000124541	RRP36	early assembly factors;PP	Yes
+91	ENSG00000189306	RRP7A	early assembly factors;PP	Yes
+92	ENSG00000114767	RRP9	early assembly factors;PP	Yes
+93	ENSG00000179041	RRS1	nucleolar steps of 60S maturation	Yes
+94	ENSG00000171490	RSL1D1	early assembly factors	Yes
+95	ENSG00000148296	SURF6	nucleolar steps of 60S maturation	Yes
+96	ENSG00000183751	TBL3	early assembly factors;PP	Yes
+97	ENSG00000029639	TFB1M	PP	Yes
+98	ENSG00000198498	TMA16	cytoplasmic pre_60S maturation	Yes
+99	ENSG00000173113	TRMT112	PP	Yes
+100	ENSG00000007520	TSR3	PP	Yes
+101	ENSG00000221983	UBA52	PP	Yes
+102	ENSG00000135763	URB2	nucleolar steps of 60S maturation	Yes
+103	ENSG00000156697	UTP14A	early assembly factors;PP	Yes
+104	ENSG00000011260	UTP18	early assembly factors;PP	Yes
+105	ENSG00000120800	UTP20	early assembly factors;PP	Yes
+106	ENSG00000117597	UTP25	PP	Yes
+107	ENSG00000108651	UTP6	early assembly factors;PP	Yes
+108	ENSG00000138442	WDR12	nucleolar steps of 60S maturation;PP	Yes
+109	ENSG00000065268	WDR18	nucleoplasmic steps of pre_60S maturation;PP	Yes
+110	ENSG00000227057	WDR46	early assembly factors;PP	Yes
+111	ENSG00000133316	WDR74	nucleolar steps of 60S maturation	Yes
+112	ENSG00000115368	WDR75	early assembly factors;PP	Yes
+113	ENSG00000173545	ZNF622	cytoplasmic pre_60S maturation	Yes
+114	ENSG00000127837	AAMP	cytoplasmic pre_60S maturation	No
+115	ENSG00000164163	ABCE1	cytoplasmic pre_40S maturation	No
+116	ENSG00000271396	AC091167.5	nucleolar steps of 60S maturation	No
+117	ENSG00000165733	BMS1	early assembly factors;PP	No
+118	ENSG00000170727	BOP1	nucleolar steps of 60S maturation	No
+119	ENSG00000197223	C1D	PP	No
+120	ENSG00000116922	C1orf109	cytoplasmic pre_60S maturation	No
+121	ENSG00000115816	CEBPZ	nucleolar steps of 60S maturation	No
+122	ENSG00000100865	CINP	cytoplasmic pre_60S maturation	No
+123	ENSG00000141551	CSNK1D	nucleoplasmic steps of pre_40S maturation.,cytoplasmic pre_40S maturation;PP	No
+124	ENSG00000178105	DDX10	early assembly factors	No
+125	ENSG00000088205	DDX18	nucleolar steps of 60S maturation	No
+126	ENSG00000165732	DDX21	early assembly factors;PP	No
+127	ENSG00000089737	DDX24	nucleolar steps of 60S maturation	No
+128	ENSG00000213782	DDX47	early assembly factors;PP	No
+129	ENSG00000108654	DDX5	nucleolar steps of 60S maturation	No
+130	ENSG00000185163	DDX51	nucleolar steps of 60S maturation	No
+131	ENSG00000109606	DHX15	early assembly factors,cytoplasmic pre_40S maturation	No
+132	ENSG00000086189	DIMT1	cytoplasmic pre_40S maturation;PP	No
+133	ENSG00000083520	DIS3	PP	No
+134	ENSG00000168724	DNAJC21	cytoplasmic pre_60S maturation	No
+135	ENSG00000067334	DNTTIP2	early assembly factors	No
+136	ENSG00000140598	EFL1	cytoplasmic pre_60S maturation	No
+137	ENSG00000158417	EIF5B	cytoplasmic pre_40S maturation	No
+138	ENSG00000006744	ELAC2	PP	No
+139	ENSG00000104626	ERI1	PP	No
+140	ENSG00000089048	ESF1	early assembly factors	No
+141	ENSG00000171824	EXOSC10	PP	No
+142	ENSG00000223496	EXOSC6	PP	No
+143	ENSG00000075914	EXOSC7	PP	No
+144	ENSG00000160256	FAM207A	early assembly factors,nucleoplasmic steps of pre_40S maturation.	No
+145	ENSG00000149806	FAU	PP	No
+146	ENSG00000119616	FCF1	early assembly factors;PP	No
+147	ENSG00000108592	FTSJ3	early assembly factors,nucleolar steps of 60S maturation;PP	No
+148	ENSG00000112339	HBS1L	cytoplasmic pre_40S maturation	No
+149	ENSG00000072506	HSD17B10	PP	No
+150	ENSG00000204389	HSPA1A	cytoplasmic pre_60S maturation	No
+151	ENSG00000204388	HSPA1B	cytoplasmic pre_60S maturation	No
+152	ENSG00000177971	IMP3	early assembly factors;PP	No
+153	ENSG00000111615	KRR1	early assembly factors;PP	No
+154	ENSG00000139233	LLPH	nucleolar steps of 60S maturation,cytoplasmic pre_60S maturation	No
+155	ENSG00000130764	LRRC47	cytoplasmic pre_40S maturation	No
+156	ENSG00000135521	LTV1	nucleoplasmic steps of pre_40S maturation.,cytoplasmic pre_40S maturation;PP	No
+157	ENSG00000198042	MAK16	nucleolar steps of 60S maturation	No
+158	ENSG00000112159	MDN1	nucleolar steps of 60S maturation,nucleoplasmic steps of pre_60S maturation	No
+159	ENSG00000171806	METTL18	nucleolar steps of 60S maturation	No
+160	ENSG00000135698	MPHOSPH6	PP	No
+161	ENSG00000171861	MRM3	PP	No
+162	ENSG00000122085	MTERF4	PP	No
+163	ENSG00000156239	N6AMT1	nucleolar steps of 60S maturation	No
+164	ENSG00000115053	NCL	PP	No
+165	ENSG00000129460	NGDN	early assembly factors	No
+166	ENSG00000132603	NIP7	early assembly factors,nucleolar steps of 60S maturation;PP	No
+167	ENSG00000169251	NMD3	nucleoplasmic steps of pre_60S maturation,cytoplasmic pre_60S maturation	No
+168	ENSG00000173145	NOC3L	nucleolar steps of 60S maturation	No
+169	ENSG00000225921	NOL7	early assembly factors	No
+170	ENSG00000162408	NOL9	nucleolar steps of 60S maturation;PP	No
+171	ENSG00000182117	NOP10	PP	No
+172	ENSG00000105373	NOP53	nucleolar steps of 60S maturation	No
+173	ENSG00000196943	NOP9	early assembly factors	No
+174	ENSG00000164346	NSA2	nucleolar steps of 60S maturation,cytoplasmic pre_60S maturation	No
+175	ENSG00000117481	NSUN4	PP	No
+176	ENSG00000149269	PAK1	nucleolar steps of 60S maturation	No
+177	ENSG00000152684	PELO	cytoplasmic pre_40S maturation	No
+178	ENSG00000254093	PINX1	cytoplasmic pre_40S maturation	No
+179	ENSG00000136045	PWP1	nucleolar steps of 60S maturation	No
+180	ENSG00000241945	PWP2	early assembly factors;PP	No
+181	ENSG00000120158	RCL1	early assembly factors;PP	No
+182	ENSG00000058729	RIOK2	nucleoplasmic steps of pre_40S maturation.,cytoplasmic pre_40S maturation;PP	No
+183	ENSG00000101782	RIOK3	cytoplasmic pre_40S maturation;PP	No
+184	ENSG00000117133	RPF1	nucleolar steps of 60S maturation	No
+185	ENSG00000147604	RPL7	nucleolar steps of 60S maturation	No
+186	ENSG00000163684	RPP14	PP	No
+187	ENSG00000148688	RPP30	PP	No
+188	ENSG00000067533	RRP15	nucleolar steps of 60S maturation	No
+189	ENSG00000132275	RRP8	early assembly factors	No
+190	ENSG00000137876	RSL24D1	nucleolar steps of 60S maturation,cytoplasmic pre_60S maturation	No
+191	ENSG00000126524	SBDS	cytoplasmic pre_60S maturation	No
+192	ENSG00000198301	SDAD1	nucleoplasmic steps of pre_60S maturation	No
+193	ENSG00000161956	SENP3	nucleoplasmic steps of pre_60S maturation;PP	No
+194	ENSG00000100138	SNU13	early assembly factors;PP	No
+195	ENSG00000159140	SON	cytoplasmic pre_40S maturation	No
+196	ENSG00000145375	SPATA5	cytoplasmic pre_60S maturation	No
+197	ENSG00000151304	SRFBP1	early assembly factors	No
+198	ENSG00000136891	TEX10	nucleoplasmic steps of pre_60S maturation;PP	No
+199	ENSG00000066654	THUMPD1	PP	No
+200	ENSG00000174173	TRMT10C	PP	No
+201	ENSG00000167721	TSR1	nucleoplasmic steps of pre_40S maturation.,cytoplasmic pre_40S maturation;PP	No
+202	ENSG00000140830	TXNL4B	early assembly factors,cytoplasmic pre_40S maturation	No
+203	ENSG00000142207	URB1	nucleolar steps of 60S maturation	No
+204	ENSG00000156256	USP16	cytoplasmic pre_40S maturation	No
+205	ENSG00000183520	UTP11	early assembly factors;PP	No
+206	ENSG00000253797	UTP14C	PP	No
+207	ENSG00000164338	UTP15	early assembly factors;PP	No
+208	ENSG00000147679	UTP23	early assembly factors	No
+209	ENSG00000132467	UTP3	early assembly factors;PP	No
+210	ENSG00000141076	UTP4	early assembly factors;PP	No
+211	ENSG00000065183	WDR3	early assembly factors;PP	No
+212	ENSG00000134987	WDR36	early assembly factors;PP	No
+213	ENSG00000163811	WDR43	early assembly factors;PP	No
+214	ENSG00000088930	XRN2	early assembly factors;PP	No
+215	ENSG00000142684	ZNF593	nucleolar steps of 60S maturation,cytoplasmic pre_60S maturation	No

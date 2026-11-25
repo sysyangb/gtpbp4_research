@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "FC": 2,
+  "gene_FDR": 1e-10,
+  "font_pt": 14,
+  "canvas_mm": [
+    115,
+    115
+  ],
+  "order": [
+    "TN",
+    "HER2",
+    "HR"
+  ],
+  "up_color": "#AA4643",
+  "down_color": "#4572A7",
+  "significance_symbol": "***",
+  "symbol_meaning": "Holm-adjusted P <0.001; conditional one-step patient bootstrap",
+  "original_counts_preserved": true
+}

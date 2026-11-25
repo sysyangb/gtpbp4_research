@@ -1,0 +1,13 @@
+"check","passed"
+"source_protein_row_count",TRUE
+"tested_protein_count",TRUE
+"raw_significant_count",TRUE
+"BH_significant_count",TRUE
+"raw_filter_integrity",TRUE
+"BH_filter_integrity",TRUE
+"raw_old_status_reconciliation",TRUE
+"raw_new_status_reconciliation",TRUE
+"BH_old_status_reconciliation",TRUE
+"BH_new_status_reconciliation",TRUE
+"vendor_t_test_spot_check_A0AV96",TRUE
+"enrichment_probability_bounds",TRUE

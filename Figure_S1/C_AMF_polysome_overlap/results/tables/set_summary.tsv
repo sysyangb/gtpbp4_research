@@ -1,0 +1,10 @@
+metric	gene_count
+Original AMF catalogue	215
+Excluded AMF/RP overlap RPL7	1
+AMFs after RP exclusion	214
+All proteins tested by FOT limma	2674
+Polysome-upregulated proteins	291
+Shared AMFs	36
+AMF only	178
+Polysome-up only	255
+Union	469

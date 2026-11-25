@@ -1,0 +1,19 @@
+metric	value
+Polysome-up input genes	502
+Polysome-up genes mapped to combined library	484
+Polysome-up genes not mapped	18
+Complete human GO BP annotated genes	16384
+AMFs source genes	215
+AMFs genes already represented in GO BP	203
+Combined total-human GO BP plus AMFs background genes	16396
+Eligible standard GO BP terms	5474
+Eligible combined terms including AMFs	5475
+AMFs polysome-up hits	51
+AMFs raw-P rank	4
+AMFs raw P	7.9336103e-32
+AMFs BH FDR	1.0859129e-28
+AMFs fold enrichment	8.0357102
+Top 10 terms with BH FDR < 0.05	10
+Minimum plotted text size pt	10
+Figure width mm	185
+Figure height mm	118

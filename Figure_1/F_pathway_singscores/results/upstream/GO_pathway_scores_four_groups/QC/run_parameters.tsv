@@ -1,0 +1,15 @@
+parameter	value
+tpm	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/TCGA/TCGA-BRCA_TPM.txt
+selected_samples	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/06scores/AMF_scores_four_groups/QC/selected_samples.tsv
+go_mapping	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/TCGA/DESeq2_TN_RBP_analysis/GO_BP_enrichment_two_gene_sets/reference_snapshot/GO_BP_propagated_symbol_to_term.tsv.gz
+go_direct_mapping	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/TCGA/DESeq2_TN_RBP_analysis/GO_BP_enrichment_two_gene_sets/reference_snapshot/GO_BP_direct_symbol_to_term.tsv.gz
+go_terms	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/TCGA/DESeq2_TN_RBP_analysis/GO_BP_enrichment_two_gene_sets/reference_snapshot/GO_BP_term_names.tsv
+annotation	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/TCGA/DESeq2_TN_RBP_analysis/KEGG_enrichment_top500_TN_all_genes/reference_snapshot/Ensembl_BioMart_hsapiens_gene_annotation.tsv
+outdir	/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/06scores/GO_pathway_scores_four_groups
+seed	20260831
+ymin	-3.5
+ymax	5
+background_rule	TPM > 0 in >=20% selected samples and nonzero variance
+gene_mapping_rule	GO membership: Translation (GO:0006412) uses direct GOA annotations; RIBI, POL-I, and Regulator of Translation use is_a/part_of-propagated annotations. Unique protein-coding HGNC symbols map to unversioned Ensembl IDs; ambiguous symbols excluded
+statistics	score ~ condition + (1|patient_id), Tukey pairwise; cluster-robust fallback for singular/nonconvergent fits
+figure_comparisons	TN-HR, TN-HER2, TN-NORMAL

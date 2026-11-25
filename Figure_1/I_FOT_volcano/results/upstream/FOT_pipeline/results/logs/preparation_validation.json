@@ -1,0 +1,11 @@
+{
+  "source_rows": 7347,
+  "source_columns": 21,
+  "accession_is_unique": true,
+  "explicit_decoy_or_contaminant_rows": 0,
+  "reported_R_reconstruction_max_abs_error": 8.88178419700125e-16,
+  "fot_sum_max_abs_deviation_from_1": 3.66373598126302e-15,
+  "ifot_sum_max_abs_deviation_from_scale": 3.78349795937538e-10,
+  "all_input_intensities_positive_or_missing": true,
+  "excluded_sample": "polysome_3"
+}

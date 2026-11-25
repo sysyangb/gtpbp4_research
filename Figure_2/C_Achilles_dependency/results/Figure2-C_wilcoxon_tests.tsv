@@ -1,0 +1,5 @@
+Scope	Comparison	Group1	Group2	n1	n2	W	p_value	p_label	test
+Breast cancer cell lines	Known oncogenes vs Non cancer-genes	Known oncogenes	Non cancer-genes	9263	668190	2964514952	3.26976749296252e-12	p=3.27e-12	Two-sided Wilcoxon rank-sum test; continuity correction
+Breast cancer cell lines	polysome-AMFs vs Non cancer-genes	polysome-AMFs	Non cancer-genes	1032	668190	296137754	4.33579969249448e-15	p=4.34e-15	Two-sided Wilcoxon rank-sum test; continuity correction
+Other cancer cell lines	Known oncogenes vs Non cancer-genes	Known oncogenes	Non cancer-genes	143010	10456330	727779099871	3.5608180713304e-67	p=3.56e-67	Two-sided Wilcoxon rank-sum test; continuity correction
+Other cancer cell lines	polysome-AMFs vs Non cancer-genes	polysome-AMFs	Non cancer-genes	15849	10456330	69698072975.5	1.60650229718629e-262	p=1.61e-262	Two-sided Wilcoxon rank-sum test; continuity correction

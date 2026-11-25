@@ -1,0 +1,5 @@
+signature	go_id	term_name	membership_source	GO_members	uniquely_resolved	included_genes	unresolved_symbols	ambiguous_symbols	excluded_low_prevalence	excluded_zero_expression	excluded_zero_variance	mapping_coverage
+RIBI	GO:0042254	ribosome biogenesis	propagated	288	282	282	6	0	0	0	0	0.979166666666667
+POL-I	GO:0006360	transcription by RNA polymerase I	propagated	35	29	29	6	0	0	0	0	0.828571428571429
+Translation	GO:0006412	translation	direct	205	191	191	14	0	0	0	0	0.931707317073171
+Regulator of Translation	GO:0006417	regulation of translation	propagated	333	328	328	5	0	0	0	0	0.984984984984985

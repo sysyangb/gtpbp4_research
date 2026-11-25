@@ -1,0 +1,10 @@
+{
+  "tested_proteins": 2674,
+  "complete_case_tested_proteins": 2590,
+  "all_tested_have_unique_peptides_ge_5": true,
+  "all_tested_have_free_ge_2": true,
+  "all_tested_have_polysome_ge_2": true,
+  "finite_primary_coefficients": true,
+  "p_values_in_range": true,
+  "treat_p_values_in_range": true
+}

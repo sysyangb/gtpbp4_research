@@ -1,0 +1,5 @@
+input	md5
+protein_statistics_all.csv	273dde58b9953d45b685354f0487d425
+AMFs_215_original_rows_with_clean_symbols.tsv	6374046d4143326e32691fc8ea9b5c66
+GO_BP_propagated_symbol_to_term.tsv.gz	2486bdad58717360d4f089f69f7d4111
+GO_BP_term_names.tsv	3d0c3099debb9062e830bb8e38e2b2c7

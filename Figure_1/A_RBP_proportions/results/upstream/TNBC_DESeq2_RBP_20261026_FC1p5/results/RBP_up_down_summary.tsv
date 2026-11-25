@@ -1,0 +1,4 @@
+"comparison"	"tumor_n"	"normal_n"	"RBP_up"	"RBP_down"	"RBP_total"	"all_gene_up"	"all_gene_down"	"tested_RBP"	"RBP_padj_NA"	"all_gene_padj_NA"
+"TN_vs_NORMAL"	177	112	871	215	1086	5932	3750	2876	103	5962
+"HER2_vs_NORMAL"	163	112	731	228	959	4821	4261	2876	103	5962
+"HR_vs_NORMAL"	664	112	537	217	754	4529	4453	2876	103	5962

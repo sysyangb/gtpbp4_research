@@ -1,0 +1,16 @@
+parameter	value
+pathways	RIBI; POL-I; Regulator of translation
+method	ssGSEA
+groups	TN; HR; HER2; Normal
+group_counts_per_pathway	TN=177; HR=664; HER2=163; NORMAL=112
+comparisons	TN-HR; TN-HER2; TN-Normal
+p_value_display	raw P value
+multiple_testing_for_display	none
+width_mm	183
+height_mm	82
+ymin	-3.5
+ymax	5
+minimum_font_pt	10
+colors	TN=#AA4643; HR=#4572A7; HER2=#89A54E; Normal=#71588F
+main_title	none
+subtitle	none

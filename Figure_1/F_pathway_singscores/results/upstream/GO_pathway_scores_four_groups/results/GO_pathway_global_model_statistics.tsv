@@ -1,0 +1,13 @@
+signature	method	n_samples	n_patients	global_p	model	singular_mixed_model	convergence_message
+RIBI	singscore	1116	1018	1.52371272984615e-44	cluster_robust_linear_model_fallback	TRUE	""
+RIBI	ssGSEA	1116	1018	1.1722965960662e-38	linear_mixed_model_patient_random_intercept	FALSE	""
+RIBI	mean_z	1116	1018	2.7691206633621e-08	linear_mixed_model_patient_random_intercept	FALSE	""
+POL-I	singscore	1116	1018	2.53255159382765e-39	linear_mixed_model_patient_random_intercept	FALSE	""
+POL-I	ssGSEA	1116	1018	9.30430204485093e-39	cluster_robust_linear_model_fallback	TRUE	""
+POL-I	mean_z	1116	1018	1.50834136712842e-06	linear_mixed_model_patient_random_intercept	FALSE	""
+Translation	singscore	1116	1018	4.00840594365222e-22	linear_mixed_model_patient_random_intercept	FALSE	""
+Translation	ssGSEA	1116	1018	1.21028528877502e-25	linear_mixed_model_patient_random_intercept	FALSE	""
+Translation	mean_z	1116	1018	0.0292885207726745	linear_mixed_model_patient_random_intercept	FALSE	""
+Regulator of Translation	singscore	1116	1018	1.15335463372472e-09	linear_mixed_model_patient_random_intercept	FALSE	""
+Regulator of Translation	ssGSEA	1116	1018	4.44621922962288e-14	cluster_robust_linear_model_fallback	TRUE	""
+Regulator of Translation	mean_z	1116	1018	5.99449932847025e-05	linear_mixed_model_patient_random_intercept	FALSE	""

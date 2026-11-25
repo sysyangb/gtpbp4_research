@@ -1,0 +1,28 @@
+{
+  "format_version": 2,
+  "content": [
+    "analysis_code",
+    "data",
+    "statistical_results"
+  ],
+  "organization": "analysis identifiers",
+  "file_mapping": "file_manifest.tsv",
+  "panel_mapping": "panel_catalog.json",
+  "execution_commands": "entrypoints.json",
+  "checksum_algorithm": "SHA-256",
+  "source_fields": {
+    "source_path": "original relative path",
+    "source_sha256": "checksum before any repository transformation",
+    "source_bytes": "original file size"
+  },
+  "repository_fields": {
+    "archive_path": "repository-relative path",
+    "sha256": "retained file checksum",
+    "bytes": "retained file size",
+    "transform": "file transformation label, empty for unchanged files"
+  },
+  "omitted_regenerable_checkpoints": [
+    "fresh_fitted_DESeq2.rds",
+    "patient_bootstrap_model.rds"
+  ]
+}

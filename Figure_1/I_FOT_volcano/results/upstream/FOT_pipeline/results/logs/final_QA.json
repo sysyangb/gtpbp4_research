@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "checked_at": "2026-09-28 10:07:48 CST",
+  "checks": {
+    "source_accessions_unique": true,
+    "fot_columns_sum_to_one": true,
+    "ifot_columns_sum_to_scale": true,
+    "primary_accessions_unique": true,
+    "primary_unique_peptides_filter": true,
+    "primary_free_observation_filter": true,
+    "primary_polysome_observation_filter": true,
+    "primary_coefficients_finite": true,
+    "primary_pvalues_valid": true,
+    "primary_treat_pvalues_valid": true,
+    "strict_up_call_consistent": true,
+    "strict_down_call_consistent": true,
+    "strict_sets_partition_primary_calls": true,
+    "consensus_up_is_subset_of_strict_up": true,
+    "consensus_down_is_subset_of_strict_down": true,
+    "consensus_up_call_consistent": true,
+    "consensus_down_call_consistent": true,
+    "detection_only_pattern_consistent": true,
+    "proda_pvalues_valid": true,
+    "proda_fdr_valid": true,
+    "figure_png_pdf_stems_match": true,
+    "figure_files_nonempty": true,
+    "required_docs_exist": true
+  },
+  "failed_checks": [],
+  "counts": {
+    "source_proteins": 7347,
+    "primary_tested": 2674,
+    "strict_up": 218,
+    "strict_down": 1793,
+    "consensus_up": 216,
+    "consensus_down": 1789,
+    "polysome_detection_only": 39,
+    "proDA_tested": 3360,
+    "figure_pairs": 10
+  }
+}

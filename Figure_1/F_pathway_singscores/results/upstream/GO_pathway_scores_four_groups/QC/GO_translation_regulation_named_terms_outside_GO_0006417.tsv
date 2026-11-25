@@ -1,0 +1,10 @@
+go_id	term_name	propagated_human_gene_count	direct_human_gene_count	included_in_GO_0006417_parent_score
+GO:1905536	negative regulation of eukaryotic translation initiation factor 4F complex assembly	0	0	FALSE
+GO:1904972	negative regulation of viral translation	1	1	FALSE
+GO:1905537	positive regulation of eukaryotic translation initiation factor 4F complex assembly	1	1	FALSE
+GO:1901192	positive regulation of formation of translation initiation ternary complex	0	0	FALSE
+GO:1904973	positive regulation of viral translation	2	2	FALSE
+GO:1905535	regulation of eukaryotic translation initiation factor 4F complex assembly	1	0	FALSE
+GO:1901190	regulation of formation of translation initiation ternary complex	0	0	FALSE
+GO:0006450	regulation of translational fidelity	22	5	FALSE
+GO:1904971	regulation of viral translation	3	0	FALSE

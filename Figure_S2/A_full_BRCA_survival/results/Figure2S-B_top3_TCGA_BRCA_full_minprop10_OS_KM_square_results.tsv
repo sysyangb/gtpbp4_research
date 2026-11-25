@@ -1,0 +1,4 @@
+gene	n	deaths	min_group_fraction	cutoff_log2TPM1	low_n	low_deaths	high_n	high_deaths	nominal_logrank_p	maxstat_condMC_adjusted_p	plot_region_width_to_height	output_stem
+DKC1	1073	150	0.1	5.6681843804202	213	20	860	130	0.012808908891182	0.141471414714147	1	Figure2S-B_DKC1_TCGA_BRCA_full_minprop10_OS_KM_square
+GTPBP4	1073	150	0.1	4.80002496036237	173	13	900	137	0.00115262446077686	0.012860128601286	1	Figure2S-B_GTPBP4_TCGA_BRCA_full_minprop10_OS_KM_square
+ILF2	1073	150	0.1	8.94583737799764	746	93	327	57	0.0470180825091106	0.440744407444074	1	Figure2S-B_ILF2_TCGA_BRCA_full_minprop10_OS_KM_square

@@ -1,0 +1,11 @@
+check	passed
+query_contains_131_unique_TN_RBP_symbols	TRUE
+background_contains_34291_DESeq2_tested_genes	TRUE
+AMFs_contains_215_unique_source_symbols	TRUE
+combined_term_size_is_10_to_500	TRUE
+AMFs_is_in_same_combined_result_table	TRUE
+BH_FDR_was_computed_jointly_for_all_terms	TRUE
+top20_ranked_by_raw_P	TRUE
+plot_has_20_terms	TRUE
+AMFs_natural_rank_not_forced	TRUE
+all_exports_exist	TRUE

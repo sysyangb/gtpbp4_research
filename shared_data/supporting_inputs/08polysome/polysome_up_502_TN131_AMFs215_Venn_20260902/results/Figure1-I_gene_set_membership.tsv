@@ -1,0 +1,770 @@
+gene_symbol	TN_upregulated_RBP	AMF	Polysome_upregulated	region_code	region
+AAMP	FALSE	TRUE	FALSE	010	AMF only
+AATF	FALSE	TRUE	FALSE	010	AMF only
+ABCB6	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ABCC4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ABCD3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ABCE1	FALSE	TRUE	FALSE	010	AMF only
+ABT1	FALSE	TRUE	FALSE	010	AMF only
+AC091167.5	FALSE	TRUE	FALSE	010	AMF only
+ACIN1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ACVR1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ADAR	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ADGRE5	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+AFG3L2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+AGO1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+AGO2	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+AGO3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+AHCTF1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ALB	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ALDH3A1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ANKHD1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ANKRD17	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ANLN	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+ANO6	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ANP32E	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+APOBEC3B	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+APOBEC3F	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ARG1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ASPH	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ASPM	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+ATAD3B	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+ATG9A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP11A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP11B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP13A1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP1A1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP1B1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP1B3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP2A2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP5F1A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP5F1C	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP5MF-PTCD1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+ATP5PO	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATP6AP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATXN10	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATXN2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ATXN2L	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+AUP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+BAG2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+BCAM	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+BCAP29	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+BCLAF1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+BLM	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+BMS1	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+BOD1L1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+BOP1	TRUE	TRUE	FALSE	110	TN-upregulated RBP intersection AMF only
+BRIX1	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+BTBD8	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+BTBD9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+BUD23	FALSE	TRUE	FALSE	010	AMF only
+BYSL	TRUE	TRUE	FALSE	110	TN-upregulated RBP intersection AMF only
+C1D	FALSE	TRUE	FALSE	010	AMF only
+C1ORF109	FALSE	TRUE	FALSE	010	AMF only
+C1ORF131	FALSE	TRUE	FALSE	010	AMF only
+C2CD3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CAPRIN1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CASC3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CASK	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CASP14	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CAVIN1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CAVIN3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CBS	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+CCDC124	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CCDC47	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CCDC86	FALSE	TRUE	FALSE	010	AMF only
+CCDC9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CCN1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CCP110	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CDC42BPA	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CDK5RAP3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CDKN2A	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+CEBPZ	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+CEMIP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CENPF	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+CEP131	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CEP55	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+CGAS	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+CINP	FALSE	TRUE	FALSE	010	AMF only
+CKAP4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CLINT1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CLPTM1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CMSS1	TRUE	TRUE	FALSE	110	TN-upregulated RBP intersection AMF only
+CNNM3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CNOT1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CNOT10	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CNOT3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CNOT6L	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CNOT9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CORO1C	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CORO2A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CPSF4L	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+CSNK1D	FALSE	TRUE	FALSE	010	AMF only
+CSNK1E	FALSE	TRUE	FALSE	010	AMF only
+CSNK2A1	FALSE	TRUE	FALSE	010	AMF only
+CSNK2A2	FALSE	TRUE	FALSE	010	AMF only
+CSNK2B	FALSE	TRUE	FALSE	010	AMF only
+CSRP2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+CSTB	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+CTNNAL1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CTPS1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+CYB5R3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+CYP1B1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DAPK1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+DAZL	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+DCAF13	FALSE	TRUE	FALSE	010	AMF only
+DDOST	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DDX10	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+DDX18	FALSE	TRUE	FALSE	010	AMF only
+DDX20	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DDX21	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+DDX24	FALSE	TRUE	FALSE	010	AMF only
+DDX27	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+DDX31	FALSE	TRUE	FALSE	010	AMF only
+DDX47	FALSE	TRUE	FALSE	010	AMF only
+DDX49	FALSE	TRUE	FALSE	010	AMF only
+DDX5	FALSE	TRUE	FALSE	010	AMF only
+DDX50	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DDX51	FALSE	TRUE	FALSE	010	AMF only
+DDX52	FALSE	TRUE	FALSE	010	AMF only
+DDX54	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+DDX55	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+DDX56	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DEK	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+DHRS7B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DHX15	FALSE	TRUE	FALSE	010	AMF only
+DHX29	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DHX30	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DHX34	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DHX36	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DHX37	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+DHX57	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DHX9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DIDO1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DIMT1	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+DIS3	FALSE	TRUE	FALSE	010	AMF only
+DKC1	TRUE	TRUE	TRUE	111	Three-way intersection
+DLG1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DNAJB12	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DNAJC2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+DNAJC21	FALSE	TRUE	FALSE	010	AMF only
+DNTTIP2	FALSE	TRUE	FALSE	010	AMF only
+DSG2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+DTD1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+DUSP12	FALSE	TRUE	FALSE	010	AMF only
+EBNA1BP2	FALSE	TRUE	FALSE	010	AMF only
+EDC4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+EEF1AKMT4	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+EFL1	FALSE	TRUE	FALSE	010	AMF only
+EIF1AD	FALSE	TRUE	FALSE	010	AMF only
+EIF4A3	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+EIF4EBP1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+EIF4ENIF1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+EIF5B	FALSE	TRUE	FALSE	010	AMF only
+EIF6	FALSE	TRUE	FALSE	010	AMF only
+ELAC2	FALSE	TRUE	FALSE	010	AMF only
+ELAVL1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ELAVL2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+ELL	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+EMC1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+EMD	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+EMG1	FALSE	TRUE	FALSE	010	AMF only
+ENO1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+EPB41L4B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+EPHA2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ERGIC1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ERI1	FALSE	TRUE	FALSE	010	AMF only
+ERMP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ESF1	FALSE	TRUE	FALSE	010	AMF only
+EXOSC1	FALSE	TRUE	FALSE	010	AMF only
+EXOSC10	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+EXOSC2	FALSE	TRUE	FALSE	010	AMF only
+EXOSC3	FALSE	TRUE	FALSE	010	AMF only
+EXOSC4	FALSE	TRUE	FALSE	010	AMF only
+EXOSC5	FALSE	TRUE	FALSE	010	AMF only
+EXOSC6	FALSE	TRUE	FALSE	010	AMF only
+EXOSC7	FALSE	TRUE	FALSE	010	AMF only
+EXOSC8	FALSE	TRUE	FALSE	010	AMF only
+EXOSC9	FALSE	TRUE	FALSE	010	AMF only
+FADS2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FAF2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FAM120A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FAM120C	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FAM207A	FALSE	TRUE	FALSE	010	AMF only
+FAM83D	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+FAM98A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FAR1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FAU	FALSE	TRUE	FALSE	010	AMF only
+FBL	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+FCF1	FALSE	TRUE	FALSE	010	AMF only
+FLG2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FLOT1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FLOT2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FMR1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FNDC3B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FSCN1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+FTSJ3	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+FUBP3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FXR1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+FXR2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+G3BP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+G3BP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GALNT1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GALNT2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GAR1	FALSE	TRUE	FALSE	010	AMF only
+GEMIN4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GFI1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+GIGYF2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GKAP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GLE1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GLG1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GNA11	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GNAS	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GNL2	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+GNL3	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+GOLGA2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GOLGA7	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GOLM1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GPR89A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+GTPBP4	TRUE	TRUE	TRUE	111	Three-way intersection
+GTSE1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+GYS1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HABP4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HBS1L	FALSE	TRUE	FALSE	010	AMF only
+HDGF	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+HDLBP	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HEATR1	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+HELZ	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HELZ2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HERC2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HERC5	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+HJURP	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HLTF	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HNRNPC	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HNRNPK	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HNRNPL	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HNRNPM	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HNRNPR	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HNRNPU	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HNRNPUL1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HNRNPUL2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HP1BP3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HRNR	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+HSD17B10	FALSE	TRUE	FALSE	010	AMF only
+HSPA1A	FALSE	TRUE	FALSE	010	AMF only
+HSPA1B	FALSE	TRUE	FALSE	010	AMF only
+IBTK	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+IGF2BP2	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+IGF2BP3	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+IGHMBP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+IKBIP	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ILF2	TRUE	TRUE	TRUE	111	Three-way intersection
+ILF3	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+IMP3	FALSE	TRUE	FALSE	010	AMF only
+IMP4	FALSE	TRUE	FALSE	010	AMF only
+INSR	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+INTS1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+IQGAP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ISG20L2	FALSE	TRUE	FALSE	010	AMF only
+ITGA3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ITGA6	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ITPR2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ITPR3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+JAG1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+JUP	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KCNN4	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+KHDRBS3	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+KIF14	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+KIF15	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+KIF1C	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KIF20A	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+KIF23	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+KIF2C	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+KIFC1	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+KMT2A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KPRP	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KRI1	FALSE	TRUE	FALSE	010	AMF only
+KRR1	FALSE	TRUE	FALSE	010	AMF only
+KRT1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KRT10	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KRT14	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KRT16	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KRT2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KRT5	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KRT6A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KRT78	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KRT9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+KTN1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+L1CAM	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+L1RE1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LACTB	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LAMB3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LARP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LARP1B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LARP4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LARP4B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LAS1L	FALSE	TRUE	FALSE	010	AMF only
+LBR	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+LCLAT1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LDHB	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+LLPH	FALSE	TRUE	FALSE	010	AMF only
+LMAN1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LMAN2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LMNA	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LMNB1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LMNB2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+LPCAT3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LRRC47	FALSE	TRUE	FALSE	010	AMF only
+LRRC59	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LRRC8A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LSG1	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+LSM14A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+LTV1	FALSE	TRUE	FALSE	010	AMF only
+LYAR	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+LYN	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MAGEB2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MAGOH	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+MAGOHB	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MAK16	FALSE	TRUE	FALSE	010	AMF only
+MAP3K20	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MAP4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MAP7	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MAP7D1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MAP7D3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MARF1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MATR3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MBNL1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MCM4	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MCM5	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MCM7	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MDN1	FALSE	TRUE	FALSE	010	AMF only
+MECP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MELK	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+METTL18	FALSE	TRUE	FALSE	010	AMF only
+MEX3A	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MFN2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MICALL1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MKI67	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MOGS	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MOV10	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MPG	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MPHOSPH10	FALSE	TRUE	FALSE	010	AMF only
+MPHOSPH6	FALSE	TRUE	FALSE	010	AMF only
+MRM1	FALSE	TRUE	FALSE	010	AMF only
+MRM2	FALSE	TRUE	FALSE	010	AMF only
+MRM3	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+MRPL15	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MRPL2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MRPS15	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MRPS22	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MRPS23	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MRPS24	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MRPS26	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MRPS27	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MRPS7	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MRTO4	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+MSH2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MSI1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MSI2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MSL3	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MTDH	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MTERF4	FALSE	TRUE	FALSE	010	AMF only
+MTHFD1L	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+MUC5B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MVP	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MYBBP1A	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+MYCBP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+MYO5A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+N6AMT1	FALSE	TRUE	FALSE	010	AMF only
+NANOS3	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+NASP	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+NAT10	FALSE	TRUE	FALSE	010	AMF only
+NCAPD2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+NCAPG2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+NCBP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NCL	FALSE	TRUE	FALSE	010	AMF only
+NCLN	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NDUFA10	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NDUFS1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NDUFV1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NFX1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NGDN	FALSE	TRUE	FALSE	010	AMF only
+NHP2	FALSE	TRUE	FALSE	010	AMF only
+NHSL3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NIFK	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NIP7	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+NKRF	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+NLE1	FALSE	TRUE	FALSE	010	AMF only
+NMD3	FALSE	TRUE	FALSE	010	AMF only
+NMNAT1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NNT	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NOB1	FALSE	TRUE	FALSE	010	AMF only
+NOC2L	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+NOC3L	FALSE	TRUE	FALSE	010	AMF only
+NOC4L	FALSE	TRUE	FALSE	010	AMF only
+NOL10	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+NOL11	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+NOL12	FALSE	TRUE	FALSE	010	AMF only
+NOL6	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+NOL7	FALSE	TRUE	FALSE	010	AMF only
+NOL9	FALSE	TRUE	FALSE	010	AMF only
+NOM1	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+NOMO3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NOP10	FALSE	TRUE	FALSE	010	AMF only
+NOP14	FALSE	TRUE	FALSE	010	AMF only
+NOP16	TRUE	TRUE	FALSE	110	TN-upregulated RBP intersection AMF only
+NOP2	TRUE	TRUE	TRUE	111	Three-way intersection
+NOP53	FALSE	TRUE	FALSE	010	AMF only
+NOP56	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+NOP58	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+NOP9	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+NPC1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NPM3	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+NSA2	FALSE	TRUE	FALSE	010	AMF only
+NSUN4	FALSE	TRUE	FALSE	010	AMF only
+NT5E	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NUFIP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NUMA1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NUP210	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+NVL	FALSE	TRUE	FALSE	010	AMF only
+NYNRIN	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+OSBPL3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+OSBPL8	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PA2G4	FALSE	TRUE	FALSE	010	AMF only
+PABPC1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PABPC4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PAK1	FALSE	TRUE	FALSE	010	AMF only
+PAK1IP1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+PAPSS1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+PARN	FALSE	TRUE	FALSE	010	AMF only
+PARP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PARP4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PBDC1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PBXIP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PCM1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PCSK1N	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+PDCD11	FALSE	TRUE	FALSE	010	AMF only
+PDIA6	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+PDS5A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PEG10	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PELO	FALSE	TRUE	FALSE	010	AMF only
+PELP1	FALSE	TRUE	FALSE	010	AMF only
+PES1	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+PFN2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+PGAM5	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PHB1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PHB2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PHGDH	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+PI4K2A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PIBF1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PIEZO1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PIGG	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PIGS	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PIGT	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PIK3C2A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PINX1	FALSE	TRUE	FALSE	010	AMF only
+PIP4P1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PKP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PKP3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PKP4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PLEC	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PLOD1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+PLOD3	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+PNN	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PNO1	FALSE	TRUE	FALSE	010	AMF only
+POLD1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+POLR1C	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+POLR2F	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+POLR3G	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+POP1	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+POR	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PPAN	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+PRKRA	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PRRC2A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PRRC2C	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PSME4	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+PTPN1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PTPRM	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PUM1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PUM2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PUM3	TRUE	TRUE	FALSE	110	TN-upregulated RBP intersection AMF only
+PURB	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+PUS7	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+PWP1	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+PWP2	FALSE	TRUE	FALSE	010	AMF only
+RAB2A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RAB6A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RAB7A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RACK1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RAD54L	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+RBM14	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RBM15	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RBM17	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+RBM19	FALSE	TRUE	FALSE	010	AMF only
+RBM28	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+RBM34	TRUE	TRUE	FALSE	110	TN-upregulated RBP intersection AMF only
+RBM38	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+RBM39	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RCL1	FALSE	TRUE	FALSE	010	AMF only
+RFC1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RFC3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RFC4	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+RFC5	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RHEB	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+RIOK1	TRUE	TRUE	FALSE	110	TN-upregulated RBP intersection AMF only
+RIOK2	FALSE	TRUE	FALSE	010	AMF only
+RIOK3	FALSE	TRUE	FALSE	010	AMF only
+RNF214	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPF1	FALSE	TRUE	FALSE	010	AMF only
+RPF2	FALSE	TRUE	FALSE	010	AMF only
+RPL12	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL13	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL13A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL14	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL15	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL17	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL18	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL19	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL23	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL23A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL24	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL27	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL27A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL30	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL31	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL39L	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+RPL4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL5	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL6	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL7	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+RPL7A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPL9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPLP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPN1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPN2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPP14	FALSE	TRUE	FALSE	010	AMF only
+RPP21	FALSE	TRUE	FALSE	010	AMF only
+RPP25	TRUE	TRUE	FALSE	110	TN-upregulated RBP intersection AMF only
+RPP30	FALSE	TRUE	FALSE	010	AMF only
+RPP38	TRUE	TRUE	TRUE	111	Three-way intersection
+RPP40	FALSE	TRUE	FALSE	010	AMF only
+RPS10	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS11	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS12	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS13	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS15A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS16	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS17	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS18	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS19	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS21	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS25	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS3A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS4X	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS5	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS6	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS8	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPS9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPSA	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RPUSD3	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+RRBP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RRP1	TRUE	TRUE	FALSE	110	TN-upregulated RBP intersection AMF only
+RRP12	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+RRP15	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+RRP1B	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+RRP36	FALSE	TRUE	FALSE	010	AMF only
+RRP7A	FALSE	TRUE	FALSE	010	AMF only
+RRP8	FALSE	TRUE	FALSE	010	AMF only
+RRP9	FALSE	TRUE	FALSE	010	AMF only
+RRS1	FALSE	TRUE	FALSE	010	AMF only
+RSBN1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+RSL1D1	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+RSL24D1	FALSE	TRUE	FALSE	010	AMF only
+SAMD9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SBDS	FALSE	TRUE	FALSE	010	AMF only
+SCAPER	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SDAD1	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+SDC1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SDHB	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SEC61A1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SEC62	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SEC63	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SEMA3C	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SENP3	FALSE	TRUE	FALSE	010	AMF only
+SEPTIN3	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+SERBP1	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+SETX	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SKIC2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SKIC3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SKIC8	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC12A2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC16A1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+SLC1A5	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC25A11	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC25A13	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC25A24	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC25A3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC25A5	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC27A4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC29A1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC3A2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC44A1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLC4A7	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLMAP	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLTM	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SLX9	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+SMARCA5	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SMARCC2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SMG5	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+SMG7	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SMPD4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SNAI1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+SNRNP70	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SNU13	FALSE	TRUE	FALSE	010	AMF only
+SON	FALSE	TRUE	FALSE	010	AMF only
+SPATA5	FALSE	TRUE	FALSE	010	AMF only
+SPATS2L	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SPECC1L	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SPICE1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SPRED2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SRBD1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SRFBP1	FALSE	TRUE	FALSE	010	AMF only
+SRPK1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+SRPK2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SRPRA	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SRPRB	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SRRM1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SRRM2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SRSF12	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+SRSF9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+STAU1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+STAU2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+STEAP3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+STRBP	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+STT3A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+STXBP3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SUGP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+SURF6	FALSE	TRUE	FALSE	010	AMF only
+SYNCRIP	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TAF9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TAP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TBC1D10B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TBL2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TBL3	FALSE	TRUE	FALSE	010	AMF only
+TCAF1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TCOF1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TDRD12	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+TECR	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TENT4A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TEP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TERT	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+TEX10	FALSE	TRUE	FALSE	010	AMF only
+TFB1M	FALSE	TRUE	FALSE	010	AMF only
+TGFBR2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+THOC2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+THRAP3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+THUMPD1	FALSE	TRUE	FALSE	010	AMF only
+TM9SF3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TMA16	FALSE	TRUE	FALSE	010	AMF only
+TMED10	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TMED4	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TMED9	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TMEM161B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TMEM214	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TMEM237	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TMEM33	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TMEM43	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TMPO	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TMT1B	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+TNRC6A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TNRC6B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TOP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TOP2A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TOP2B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TOP3B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TOR1AIP1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TP53BP2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+TPX2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+TRANK1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TRIM14	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TRIM56	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TRIP12	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TRIT1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+TRMT10C	FALSE	TRUE	FALSE	010	AMF only
+TRMT112	FALSE	TRUE	FALSE	010	AMF only
+TRMT1L	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TSR1	FALSE	TRUE	FALSE	010	AMF only
+TSR3	FALSE	TRUE	FALSE	010	AMF only
+TTC17	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TTC3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+TTF2	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+TTK	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+TXNL4B	FALSE	TRUE	FALSE	010	AMF only
+UBA52	FALSE	TRUE	FALSE	010	AMF only
+UBAP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+UBAP2L	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+UBTF	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+UFL1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+UPF1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+UPF3B	TRUE	FALSE	TRUE	101	TN-upregulated RBP intersection Polysome-upregulated only
+UQCRC1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+URB1	FALSE	TRUE	FALSE	010	AMF only
+URB2	FALSE	TRUE	FALSE	010	AMF only
+USP10	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+USP16	FALSE	TRUE	FALSE	010	AMF only
+USP35	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+UTP11	FALSE	TRUE	FALSE	010	AMF only
+UTP14A	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+UTP14C	FALSE	TRUE	FALSE	010	AMF only
+UTP15	FALSE	TRUE	FALSE	010	AMF only
+UTP18	FALSE	TRUE	FALSE	010	AMF only
+UTP20	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+UTP23	FALSE	TRUE	FALSE	010	AMF only
+UTP25	FALSE	TRUE	FALSE	010	AMF only
+UTP3	FALSE	TRUE	FALSE	010	AMF only
+UTP4	FALSE	TRUE	FALSE	010	AMF only
+UTP6	FALSE	TRUE	FALSE	010	AMF only
+VAPA	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+VTI1B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+WARS1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+WDR12	FALSE	TRUE	FALSE	010	AMF only
+WDR18	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+WDR3	TRUE	TRUE	FALSE	110	TN-upregulated RBP intersection AMF only
+WDR36	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+WDR43	FALSE	TRUE	FALSE	010	AMF only
+WDR46	FALSE	TRUE	FALSE	010	AMF only
+WDR74	FALSE	TRUE	FALSE	010	AMF only
+WDR75	FALSE	TRUE	FALSE	010	AMF only
+WFS1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+WWP2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+XPO5	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+XRN2	FALSE	TRUE	FALSE	010	AMF only
+YBX1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+YBX3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+YTHDC2	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZBP1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+ZBTB32	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+ZC3H12D	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+ZC3H14	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZC3H18	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZC3H7A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZC3H7B	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZC3HAV1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZCCHC3	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZFC3H1	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZFR	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZIC1	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+ZMPSTE24	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZNF326	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZNF346	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZNF385A	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZNF385C	TRUE	FALSE	FALSE	100	TN-upregulated RBP only
+ZNF512	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZNF593	FALSE	TRUE	FALSE	010	AMF only
+ZNF622	FALSE	TRUE	TRUE	011	AMF intersection Polysome-upregulated only
+ZNF638	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZNF768	FALSE	FALSE	TRUE	001	Polysome-upregulated only
+ZNF883	TRUE	FALSE	FALSE	100	TN-upregulated RBP only

@@ -1,0 +1,7 @@
+sample_id,group,replicate,included_in_main_analysis,exclusion_reason
+free_1,Free,1,TRUE,
+free_2,Free,2,TRUE,
+free_3,Free,3,TRUE,
+polysome_1,Polysome,1,TRUE,
+polysome_2,Polysome,2,TRUE,
+polysome_3,Polysome,3,FALSE,Pre-specified QC exclusion: only 970 proteins detected and low correlation with polysome_1/2

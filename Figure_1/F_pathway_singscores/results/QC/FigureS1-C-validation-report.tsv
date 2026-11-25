@@ -1,0 +1,11 @@
+check	passed	value
+three_pathways_in_requested_order	TRUE	RIBI -> POL-I -> Regulator of Translation
+selected_method_only	TRUE	singscore
+1116_samples_per_pathway	TRUE	RIBI=1116; POL-I=1116; Regulator of Translation=1116
+expected_group_counts	TRUE	TN=177; HR=664; HER2=163; NORMAL=112
+finite_scores	TRUE	0
+unique_sample_pathway_keys	TRUE	0
+nine_TN_comparisons	TRUE	9
+raw_P_labels_only	TRUE	P=1.2e-10; P=6.0e-04; P<1e-15; P<1e-15; P=8.7e-11; P<1e-15; P=4.2e-10; P=1.1e-05; P=0.096
+minimum_font_10pt	TRUE	axis text=10; P labels=10; strip text=10.5; axis title=10.5
+four_export_formats	TRUE	FigureS1-C.svg; FigureS1-C.pdf; FigureS1-C.tiff; FigureS1-C.png

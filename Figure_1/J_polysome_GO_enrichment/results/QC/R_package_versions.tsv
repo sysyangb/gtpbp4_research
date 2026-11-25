@@ -1,0 +1,7 @@
+package	version
+data.table	1.17.8
+ggplot2	4.0.2
+scales	1.4.0
+stringr	1.6.0
+ragg	1.5.0
+svglite	2.2.2

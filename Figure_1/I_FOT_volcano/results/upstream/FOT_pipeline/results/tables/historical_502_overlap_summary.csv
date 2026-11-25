@@ -1,0 +1,5 @@
+comparison_set,historical_502_n,new_set_n,overlap_n,historical_only_n,new_only_n
+FOT_TREAT_BH05,502,218,218,284,0
+FOT_eBayes_BH05_FC1,502,275,274,228,1
+FOT_legacy_rawP05_FC1,502,277,276,226,1
+rawIntensity_TREAT_BH05,502,417,407,95,10

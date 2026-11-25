@@ -1,0 +1,9 @@
+check	pass
+patient-level full TCGA-BRCA cohort	TRUE
+five genes and 150 deaths	TRUE
+same cutpoint groups as chosen forest	TRUE
+nominal P values reproduced	TRUE
+identical axis ranges and curve widths	TRUE
+10 pt Arial requested	TRUE
+composite SVG contains Arial	TRUE
+all composite and individual exports exist	TRUE

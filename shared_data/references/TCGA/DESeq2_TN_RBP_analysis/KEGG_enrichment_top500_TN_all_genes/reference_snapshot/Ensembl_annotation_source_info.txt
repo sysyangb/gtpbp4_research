@@ -1,0 +1,5 @@
+BioMart host: https://useast.ensembl.org:443/biomart/martservice?redirect=no
+Annotation query date: 2026-08-24
+biomaRt version: 2.66.0
+Attributes: ensembl_gene_id, hgnc_symbol, entrezgene_id, gene_biotype
+RBP_catalog_used.tsv was used only as a fallback annotation source; no RBP filter was applied.

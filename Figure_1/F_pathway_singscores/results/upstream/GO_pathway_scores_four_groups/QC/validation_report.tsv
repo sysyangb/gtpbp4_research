@@ -1,0 +1,11 @@
+check	passed	value
+fixed_sample_count_1116	TRUE	1116
+fixed_group_counts	TRUE	TN=177;HR=664;HER2=163;NORMAL=112
+four_GO_definitions_resolved	TRUE	GO:0042254=ribosome biogenesis;GO:0006360=transcription by RNA polymerase I;GO:0006412=translation;GO:0006417=regulation of translation
+GO_membership_source_policy	TRUE	RIBI=propagated;POL-I=propagated;Translation=direct;Regulator of Translation=propagated
+all_gene_sets_at_least_10_genes	TRUE	RIBI=282;POL-I=29;Translation=191;Regulator of Translation=328
+all_12_scores_per_sample_finite	TRUE	13392
+score_key_unique	TRUE	0
+twelve_patient_aware_models	TRUE	12
+nine_TN_comparisons_per_pathway_figure_total_36	TRUE	36
+four_figures_four_formats	TRUE	16

@@ -1,0 +1,9 @@
+Scope	Group	Target_gene_count	Matched_target_gene_count	Cell_line_count	Retained_gene_count	Retained_gene_cell_pairs	Observations	Missing_target_genes
+Breast cancer cell lines	Non-cancer genes			13	13895	157991	668190	
+Breast cancer cell lines	Known TSGs			13	157	1942	9574	
+Breast cancer cell lines	Known oncogenes			13	148	1848	9263	
+Breast cancer cell lines	polysome-AMFs	36	20	13	20	249	1032	BRIX1,FBL,FTSJ3,NOC2L,NOL10,NOL6,NOP2,NOP56,NOP58,NOP9,PPAN,PWP1,RBM28,SDAD1,UTP20,ZNF622
+Other cancer cell lines	Non-cancer genes			203	13949	2478232	10456330	
+Other cancer cell lines	Known TSGs			203	157	30283	148827	
+Other cancer cell lines	Known oncogenes			203	148	28598	143010	
+Other cancer cell lines	polysome-AMFs	36	20	203	20	3815	15849	BRIX1,FBL,FTSJ3,NOC2L,NOL10,NOL6,NOP2,NOP56,NOP58,NOP9,PPAN,PWP1,RBM28,SDAD1,UTP20,ZNF622

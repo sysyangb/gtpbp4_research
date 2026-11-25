@@ -1,0 +1,40 @@
+row_id,Protein_accession,Gene_name,Protein_description,Unique_peptides,explicit_decoy_or_contaminant,n_observed_Free,n_observed_Polysome,n_observed_main5,complete_main5
+34,A8K2U0,A2ML1,Alpha-2-macroglobulin-like protein 1 OS=Homo sapiens OX=9606 GN=A2ML1 PE=1 SV=3,7,FALSE,0,2,2,FALSE
+152,O14654,IRS4,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,6,FALSE,0,2,2,FALSE
+541,O75342,ALOX12B,"Arachidonate 12-lipoxygenase, 12R-type OS=Homo sapiens OX=9606 GN=ALOX12B PE=1 SV=1",5,FALSE,0,2,2,FALSE
+691,O94905,ERLIN2,Erlin-2 OS=Homo sapiens OX=9606 GN=ERLIN2 PE=1 SV=1,5,FALSE,0,2,2,FALSE
+1567,P30414,NKTR,NK-tumor recognition protein OS=Homo sapiens OX=9606 GN=NKTR PE=1 SV=2,6,FALSE,0,2,2,FALSE
+1630,P33897,ABCD1,ATP-binding cassette sub-family D member 1 OS=Homo sapiens OX=9606 GN=ABCD1 PE=1 SV=2,7,FALSE,0,2,2,FALSE
+1827,P46778,RPL21,Large ribosomal subunit protein eL21 OS=Homo sapiens OX=9606 GN=RPL21 PE=1 SV=2,5,FALSE,0,2,2,FALSE
+2307,P62906,RPL10A,Large ribosomal subunit protein uL1 OS=Homo sapiens OX=9606 GN=RPL10A PE=1 SV=2,10,FALSE,0,2,2,FALSE
+2472,Q02543,RPL18A,Large ribosomal subunit protein eL20 OS=Homo sapiens OX=9606 GN=RPL18A PE=1 SV=2,6,FALSE,0,2,2,FALSE
+2565,Q08188,TGM3,Protein-glutamine gamma-glutamyltransferase E OS=Homo sapiens OX=9606 GN=TGM3 PE=1 SV=4,8,FALSE,0,2,2,FALSE
+2779,Q13601,KRR1,KRR1 small subunit processome component homolog OS=Homo sapiens OX=9606 GN=KRR1 PE=1 SV=4,7,FALSE,0,2,2,FALSE
+2812,Q13835,PKP1,Plakophilin-1 OS=Homo sapiens OX=9606 GN=PKP1 PE=1 SV=2,5,FALSE,0,2,2,FALSE
+3032,Q15397,PUM3,Pumilio homolog 3 OS=Homo sapiens OX=9606 GN=PUM3 PE=1 SV=3,6,FALSE,0,2,2,FALSE
+3066,Q15646,OASL,2'-5'-oligoadenylate synthase-like protein OS=Homo sapiens OX=9606 GN=OASL PE=1 SV=2,11,FALSE,0,2,2,FALSE
+3744,Q7Z6E9,RBBP6,E3 ubiquitin-protein ligase RBBP6 OS=Homo sapiens OX=9606 GN=RBBP6 PE=1 SV=1,5,FALSE,0,2,2,FALSE
+3795,Q86U86,PBRM1,Protein polybromo-1 OS=Homo sapiens OX=9606 GN=PBRM1 PE=1 SV=1,5,FALSE,0,2,2,FALSE
+4349,Q8WVV4,POF1B,Protein POF1B OS=Homo sapiens OX=9606 GN=POF1B PE=1 SV=3,6,FALSE,0,2,2,FALSE
+4510,Q93050,ATP6V0A1,V-type proton ATPase 116 kDa subunit a 1 OS=Homo sapiens OX=9606 GN=ATP6V0A1 PE=1 SV=3,6,FALSE,0,2,2,FALSE
+4768,Q96JN8,NEURL4,Neuralized-like protein 4 OS=Homo sapiens OX=9606 GN=NEURL4 PE=1 SV=2,7,FALSE,0,2,2,FALSE
+4774,Q96K58,ZNF668,Zinc finger protein 668 OS=Homo sapiens OX=9606 GN=ZNF668 PE=1 SV=4,5,FALSE,0,2,2,FALSE
+4780,Q96KM6,ZNF512B,Zinc finger protein 512B OS=Homo sapiens OX=9606 GN=ZNF512B PE=1 SV=1,5,FALSE,0,2,2,FALSE
+4844,Q96PZ2,FAM111A,Serine protease FAM111A OS=Homo sapiens OX=9606 GN=FAM111A PE=1 SV=2,8,FALSE,0,2,2,FALSE
+4992,Q99848,EBNA1BP2,Probable rRNA-processing protein EBP2 OS=Homo sapiens OX=9606 GN=EBNA1BP2 PE=1 SV=2,5,FALSE,0,2,2,FALSE
+5476,Q9H8H2,DDX31,ATP-dependent DNA helicase DDX31 OS=Homo sapiens OX=9606 GN=DDX31 PE=1 SV=2,13,FALSE,0,2,2,FALSE
+5628,Q9NQ11,ATP13A2,Polyamine-transporting ATPase 13A2 OS=Homo sapiens OX=9606 GN=ATP13A2 PE=1 SV=2,5,FALSE,0,2,2,FALSE
+5841,Q9NXF1,TEX10,Testis-expressed protein 10 OS=Homo sapiens OX=9606 GN=TEX10 PE=1 SV=2,6,FALSE,0,2,2,FALSE
+5907,Q9NZM5,NOP53,Ribosome biogenesis protein NOP53 OS=Homo sapiens OX=9606 GN=NOP53 PE=1 SV=2,6,FALSE,0,2,2,FALSE
+5912,Q9NZT1,CALML5,Calmodulin-like protein 5 OS=Homo sapiens OX=9606 GN=CALML5 PE=1 SV=2,5,FALSE,0,2,2,FALSE
+6059,Q9UH17,APOBEC3B,DNA dC->dU-editing enzyme APOBEC-3B OS=Homo sapiens OX=9606 GN=APOBEC3B PE=1 SV=1,6,FALSE,0,2,2,FALSE
+6106,Q9UIG0,BAZ1B,Tyrosine-protein kinase BAZ1B OS=Homo sapiens OX=9606 GN=BAZ1B PE=1 SV=2,9,FALSE,0,2,2,FALSE
+6109,Q9UII4,HERC5,E3 ISG15--protein ligase HERC5 OS=Homo sapiens OX=9606 GN=HERC5 PE=1 SV=2,14,FALSE,0,2,2,FALSE
+6199,Q9ULH0,KIDINS220,Kinase D-interacting substrate of 220 kDa OS=Homo sapiens OX=9606 GN=KIDINS220 PE=1 SV=3,8,FALSE,0,2,2,FALSE
+6470,Q9Y512,SAMM50,Sorting and assembly machinery component 50 homolog OS=Homo sapiens OX=9606 GN=SAMM50 PE=1 SV=3,6,FALSE,0,2,2,FALSE
+6642,P42696,RBM34,RNA-binding protein 34 OS=Homo sapiens OX=9606 GN=RBM34 PE=1 SV=2,7,FALSE,0,2,2,FALSE
+6690,Q5H9U9,DDX60L,Probable ATP-dependent RNA helicase DDX60-like OS=Homo sapiens OX=9606 GN=DDX60L PE=1 SV=3,8,FALSE,0,2,2,FALSE
+7018,O60287,URB1,Nucleolar pre-ribosomal-associated protein 1 OS=Homo sapiens OX=9606 GN=URB1 PE=1 SV=4,6,FALSE,0,2,2,FALSE
+7029,P0CB38,PABPC4L,Polyadenylate-binding protein 4-like OS=Homo sapiens OX=9606 GN=PABPC4L PE=1 SV=1,6,FALSE,0,2,2,FALSE
+7038,P78312,FAM193A,Protein FAM193A OS=Homo sapiens OX=9606 GN=FAM193A PE=1 SV=2,5,FALSE,0,2,2,FALSE
+7068,Q5T3I0,GPATCH4,G patch domain-containing protein 4 OS=Homo sapiens OX=9606 GN=GPATCH4 PE=1 SV=2,5,FALSE,0,2,2,FALSE

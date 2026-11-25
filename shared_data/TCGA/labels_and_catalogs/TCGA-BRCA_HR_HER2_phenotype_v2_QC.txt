@@ -1,0 +1,66 @@
+TCGA-BRCA HR/HER2 phenotype v2 QC
+
+Intended grain:
+  Patient phenotype rows: 1095
+  Expression sample phenotype rows: 1226
+
+Rule-based patient phenotype counts (main condition):
+  HR: 670
+  TN: 177
+  HER2: 169
+  UNKNOWN: 79
+
+Strict-QC patient phenotype counts (sensitivity condition):
+  HR: 638
+  TN: 169
+  HER2: 165
+  UNKNOWN: 123
+
+Rule-based expression-sample condition counts (main condition):
+  HR: 685
+  TN: 178
+  HER2: 170
+  NORMAL: 113
+  UNKNOWN: 80
+
+Strict-QC expression-sample condition counts (sensitivity condition):
+  HR: 653
+  TN: 170
+  HER2: 166
+  UNKNOWN: 124
+  NORMAL: 113
+
+Subtype-changing GDC vs Nature 2012 conflicts: 40 patients
+GDC HER2 IHC/FISH conflicts: 15 patients
+Original NON_TN patients incomplete for exact HR/HER2 subtype: 26
+
+Validation:
+  counts_tpm_headers_identical: YES
+  sample_order_matches_expression: YES
+  sample_ids_unique: YES
+  patient_ids_unique: YES
+  phenotype_values_valid: YES
+  normal_only_sample_type_11: YES
+  tn_receptor_rule_valid: YES
+  hr_rule_valid: YES
+  her2_rule_valid: YES
+  strict_groups_exclude_subtype_conflicts: YES
+  strict_groups_exclude_her2_assay_conflicts: YES
+
+Rules:
+  HR positive = ER positive OR PR positive.
+  HR negative = ER negative AND PR negative.
+  TN = HER2 negative AND ER negative AND PR negative.
+  HR = HER2 negative AND (ER positive OR PR positive).
+  HER2 = HER2 positive, regardless of ER/PR status.
+  Classification priority is HER2, then HR/TN among HER2-negative tumors.
+  Recommended subtypes require all receptor states needed by the rule to be conclusive.
+  Recommended fine subtypes exclude subtype-changing source conflicts and GDC HER2 IHC/FISH conflicts.
+  Best-available subtype retains the audited Nature-2012-first, GDC-fill receptor call for sensitivity analysis.
+  Sample type code 11 is NORMAL; NORMAL is not assigned at patient tumor-phenotype level.
+
+Input MD5:
+  TCGA-BRCA_receptor_subtype_by_patient.tsv: 12a7f92a1ce0aca4e91a9af26348469d
+  TCGA-BRCA_receptor_subtype_by_sample.tsv: 8f214e85fa6499541a7249f6f6440c70
+  TCGA-BRCA_counts.txt: a145e59c7e93d0d059a0797d53c353d1
+  TCGA-BRCA_TPM.txt: 47bc890ea75556701803a10bfa0ca2f5

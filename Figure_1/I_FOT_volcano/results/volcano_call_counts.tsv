@@ -1,0 +1,7 @@
+metric	direction	n
+TREAT_BH_FDR	Down	1793
+TREAT_BH_FDR	Not significant	663
+TREAT_BH_FDR	Up	218
+TREAT_raw_p	Down	1817
+TREAT_raw_p	Not significant	636
+TREAT_raw_p	Up	221

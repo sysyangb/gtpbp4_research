@@ -1,0 +1,16 @@
+metric	value
+TN RBP input symbols	131
+TN RBP symbols in tested background	131
+TN RBP symbols mapped to combined library	125
+Combined mapped background symbols	16329
+Standard GO BP mapped background symbols	16322
+AMFs source symbols	215
+AMFs symbols in tested background	207
+Eligible standard GO BP terms	5467
+Eligible combined terms including AMFs	5468
+AMFs TN-RBP hits	15
+AMFs raw-P rank	1
+AMFs raw P	5.6146587e-11
+AMFs BH FDR	3.0700954e-07
+AMFs fold enrichment	9.466087
+Top 20 terms with BH FDR < 0.05	20

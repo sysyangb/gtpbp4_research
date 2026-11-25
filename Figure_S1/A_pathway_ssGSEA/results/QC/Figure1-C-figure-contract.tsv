@@ -1,0 +1,6 @@
+field	value
+core_conclusion	Four-group differences in three ribosome/translation-related programs are shown using the same ssGSEA scale.
+evidence_chain	Three ordered pathway facets; each facet shows four-group distributions and TN-versus-other-group raw P values.
+archetype	quantitative grid
+backend	R/ggplot2
+export_contract	183 x 82 mm; editable SVG/PDF; 600-dpi TIFF; 300-dpi PNG; minimum text 10 pt

@@ -1,0 +1,30 @@
+.
+├── Figure_1/
+├── Figure_2/
+├── Figure_S1/
+├── Figure_S2/
+├── Figure_S5/
+├── shared_data/
+├── environment/
+├── provenance/
+├── tools/
+├── README.md
+├── FIGURE_INDEX.md
+└── FIGURE_INDEX.tsv
+
+Analysis directories:
+Figure_1/A_RBP_proportions/
+Figure_1/B_RBP_heatmap/
+Figure_1/C_TN_RBP_enrichment/
+Figure_1/F_pathway_singscores/
+Figure_1/I_FOT_volcano/
+Figure_1/J_polysome_GO_enrichment/
+Figure_2/A_AMF_selection_survival/
+Figure_2/B_candidate_expression/
+Figure_2/C_Achilles_dependency/
+Figure_S1/A_pathway_ssGSEA/
+Figure_S1/C_AMF_polysome_overlap/
+Figure_S2/A_full_BRCA_survival/
+Figure_S2/B_GTPBP4_multivariable_Cox/
+Figure_S2/C_additional_expression/
+Figure_S5/B_interactome_translation_counts/

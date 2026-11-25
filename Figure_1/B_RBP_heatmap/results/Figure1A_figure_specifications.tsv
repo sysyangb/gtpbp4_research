@@ -1,0 +1,9 @@
+property	value
+width_mm	190
+height_mm	90
+aspect_ratio	2.11111111111111
+minimum_text_pt	10
+row_gap_bigpoints	2
+column_gap_bigpoints	2
+png_dpi	600
+tiff_dpi	600

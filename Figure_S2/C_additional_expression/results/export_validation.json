@@ -1,0 +1,50 @@
+[
+  {
+    "gene": "GNL2",
+    "pdf_points": [
+      288,
+      288
+    ],
+    "png_pixels": [
+      2400,
+      2400
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "all_text_14pt": true,
+    "axis_title": "Log₂(TPM + 1)",
+    "fonts": [
+      "/VNXAAD+Arial-BoldMT",
+      "/ZWCWRH+ArialMT",
+      "/PTYRDZ+Helvetica",
+      "None"
+    ],
+    "png_visual_review": "passed; no clipping or overlap"
+  },
+  {
+    "gene": "NOP58",
+    "pdf_points": [
+      288,
+      288
+    ],
+    "png_pixels": [
+      2400,
+      2400
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "all_text_14pt": true,
+    "axis_title": "Log₂(TPM + 1)",
+    "fonts": [
+      "/AOIYOQ+Arial-BoldMT",
+      "/XWJRCX+ArialMT",
+      "/PTYRDZ+Helvetica",
+      "None"
+    ],
+    "png_visual_review": "passed; no clipping or overlap"
+  }
+]

@@ -1,0 +1,37 @@
+Input_order	Gene	Exact_match_in_GCT	GCT_hairpin_rows	Breast_available_cell_lines	Breast_available_observations	Breast_retained_cell_lines	Breast_retained_observations	Other_available_cell_lines	Other_available_observations	Other_retained_cell_lines	Other_retained_observations	Note
+1	DDX21	True	5	13	65	13	65	203	1015	203	1015	
+2	RSL1D1	True	1	13	13	13	13	203	203	195	195	
+3	DIMT1	True	5	13	65	13	65	203	1015	198	990	
+4	GTPBP4	True	5	13	65	13	65	203	1015	202	1010	
+5	PPAN	False	0	0	0	0	0	0	0	0	0	PPAN-P2RY11 is a different GCT symbol; not substituted for PPAN
+6	RBM28	False	0	0	0	0	0	0	0	0	0	
+7	ILF2	True	5	13	65	13	65	203	996	201	986	
+8	NKRF	True	5	13	65	13	65	203	1015	199	995	
+9	NOP56	False	0	0	0	0	0	0	0	0	0	
+10	GNL3	True	5	13	65	13	65	203	996	203	996	
+11	NIP7	True	1	13	13	13	13	203	203	195	195	
+12	CEBPZ	True	5	13	65	13	65	203	1015	188	940	
+13	DDX27	True	5	13	65	12	60	203	1015	197	985	
+14	BRIX1	False	0	0	0	0	0	0	0	0	0	
+15	FBL	False	0	0	0	0	0	0	0	0	0	
+16	ILF3	True	5	13	65	13	65	203	1015	202	1010	
+17	NOP58	False	0	0	0	0	0	0	0	0	0	
+18	EIF4A3	True	5	13	65	13	65	203	1015	203	1015	
+19	ZNF622	False	0	0	0	0	0	0	0	0	0	
+20	MYBBP1A	True	4	13	52	13	52	203	812	201	804	
+21	RRP15	True	1	13	13	5	5	203	203	59	59	
+22	UTP20	False	0	0	0	0	0	0	0	0	0	
+23	DDX54	True	5	13	65	13	65	203	1015	203	1015	
+24	NOC2L	False	0	0	0	0	0	0	0	0	0	
+25	DKC1	True	6	13	78	13	78	203	1180	202	1174	
+26	NOP2	False	0	0	0	0	0	0	0	0	0	
+27	FTSJ3	False	0	0	0	0	0	0	0	0	0	
+28	NOP9	False	0	0	0	0	0	0	0	0	0	
+29	NOL10	False	0	0	0	0	0	0	0	0	0	
+30	MRTO4	True	3	13	39	13	39	203	590	184	536	
+31	PWP1	False	0	0	0	0	0	0	0	0	0	
+32	DDX55	True	4	13	52	11	44	203	812	191	764	
+33	GNL2	True	5	13	65	13	65	203	1015	194	970	
+34	NOL6	False	0	0	0	0	0	0	0	0	0	
+35	BMS1	True	1	13	13	13	13	203	203	195	195	
+36	SDAD1	False	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,11 @@
+check	pass
+36 unique AMF genes matched to TNBC DE results	TRUE
+top five in ascending original genome-wide FDR	TRUE
+one-to-one TPM aliquot alignment, original expression rows	TRUE
+1073 patients and 150 OS events	TRUE
+10 percent minimum per survival group	TRUE
+cutoffs independently reproduced by maxstat	TRUE
+forest order equals FDR order	TRUE
+finite HR and 95 percent CI	TRUE
+four figure formats exported	TRUE
+Arial SVG and 10 pt body	TRUE

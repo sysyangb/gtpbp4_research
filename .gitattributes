@@ -1,0 +1,4 @@
+"Figure_2/C_Achilles_dependency/data/Figure2-C_source_data.tsv.gz" filter=lfs diff=lfs merge=lfs -text
+"shared_data/TCGA/raw/TCGA-BRCA_TPM.txt" filter=lfs diff=lfs merge=lfs -text
+"shared_data/TCGA/raw/TCGA-BRCA_counts.txt" filter=lfs diff=lfs merge=lfs -text
+"shared_data/Achilles/Achilles_QC_v2.4.3.rnai.gct" filter=lfs diff=lfs merge=lfs -text

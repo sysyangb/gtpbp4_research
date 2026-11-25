@@ -1,0 +1,6 @@
+go_id	signature	membership_source	expected_term_name	figure_prefix	y_label	term_name	namespace
+GO:0042254	RIBI	propagated	ribosome biogenesis	Figure1-D-RIBI-score	Standardized RIBI score	ribosome biogenesis	biological_process
+GO:0006360	POL-I	propagated	transcription by RNA polymerase I	Figure1-D-POL-I-score	Standardized POL-I score	transcription by RNA polymerase I	biological_process
+GO:0006412	Translation	direct	translation	Figure1-D-Translation-score	Standardized translation score	translation	biological_process
+GO:0006417	Regulator of Translation	propagated	regulation of translation	Figure1-D-Regulator-of-Translation-score	"Standardized regulation-of-
+translation score"	regulation of translation	biological_process

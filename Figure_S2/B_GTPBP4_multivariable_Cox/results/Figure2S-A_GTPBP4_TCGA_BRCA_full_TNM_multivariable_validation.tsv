@@ -1,0 +1,17 @@
+check	pass	detail
+fixed TCGA-BRCA source cohort	TRUE	n=1073; OS deaths=150
+patient-level identifiers unique	TRUE	one row per patient
+clinical and group joins complete	TRUE	1073/1073 matched to clinical data and the GTPBP4 cutoff groups
+TNM complete-case cohort	TRUE	n=897; deaths=132
+model contains exactly four requested terms	TRUE	T34_vs_T12, Npos_vs_N0, M1_vs_M0, GTPBP4_best_groupHigh
+forest rows match requested order	TRUE	T stage (T3&T4 vs. T1&T2); N stage (N1-3 vs. N0); M stage (M1 vs. M0); GTPBP4 (high vs. low)
+GTPBP4 High versus Low is nominally significant	TRUE	HR 1.466; P 0.03802
+finite ordered confidence intervals	TRUE	T34_vs_T12 0.980–2.192; Npos_vs_N0 1.204–2.611; M1_vs_M0 1.614–5.078; GTPBP4_best_groupHigh 1.021–2.103
+global PH test does not reject at 0.05	TRUE	global PH P=0.07830
+T-stage PH caveat recorded	TRUE	T-stage PH P=0.01316
+outcome-selected cutoff caveat recorded	TRUE	cutoff log2(TPM+1)=5.28478; univariate maxstat condMC P=0.02301
+no upper-left panel identifier	TRUE	No panel letter layer is present in the plotting code
+minimum visible text is at least 10 pt	TRUE	10.0 pt
+Arial retained in SVG	TRUE	Arial present in editable SVG
+four figure formats exist	TRUE	Figure2S-A_GTPBP4_TCGA_BRCA_full_TNM_multivariable_forest.svg, Figure2S-A_GTPBP4_TCGA_BRCA_full_TNM_multivariable_forest.pdf, Figure2S-A_GTPBP4_TCGA_BRCA_full_TNM_multivariable_forest.png, Figure2S-A_GTPBP4_TCGA_BRCA_full_TNM_multivariable_forest.tiff
+all outputs are nonempty	TRUE	259 to 200544

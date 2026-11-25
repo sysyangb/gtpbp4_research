@@ -1,0 +1,6 @@
+signature	go_id	expected_term_name	membership_source	figure_prefix	y_label	GO_members	included_genes	mapping_coverage	width_mm	height_mm	y_display_min	y_display_max	minimum_font_pt	comparisons	p_value_display	multiple_testing	TN_color	HR_color	HER2_color	Normal_color
+RIBI	GO:0042254	ribosome biogenesis	propagated	Figure1-D-RIBI-score	Standardized RIBI score	288	282	0.979166666666667	183	82	-3.5	5	10	TN-HR;TN-HER2;TN-NORMAL	raw (unadjusted)	none for displayed P values	#AA4643	#4572A7	#89A54E	#71588F
+POL-I	GO:0006360	transcription by RNA polymerase I	propagated	Figure1-D-POL-I-score	Standardized POL-I score	35	29	0.828571428571429	183	82	-3.5	5	10	TN-HR;TN-HER2;TN-NORMAL	raw (unadjusted)	none for displayed P values	#AA4643	#4572A7	#89A54E	#71588F
+Translation	GO:0006412	translation	direct	Figure1-D-Translation-score	Standardized translation score	205	191	0.931707317073171	183	82	-3.5	5	10	TN-HR;TN-HER2;TN-NORMAL	raw (unadjusted)	none for displayed P values	#AA4643	#4572A7	#89A54E	#71588F
+Regulator of Translation	GO:0006417	regulation of translation	propagated	Figure1-D-Regulator-of-Translation-score	"Standardized regulation-of-
+translation score"	333	328	0.984984984984985	183	82	-3.5	5	10	TN-HR;TN-HER2;TN-NORMAL	raw (unadjusted)	none for displayed P values	#AA4643	#4572A7	#89A54E	#71588F

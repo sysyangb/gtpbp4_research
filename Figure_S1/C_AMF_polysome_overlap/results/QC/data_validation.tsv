@@ -1,0 +1,8 @@
+check	result
+AMF_214_unique_symbols	PASS
+Polysome_up_291_unique_symbols	PASS
+36_intersection_matches_manuscript_workbook	PASS
+178_plus_36_equals_214	PASS
+255_plus_36_equals_291	PASS
+178_plus_36_plus_255_equals_469	PASS
+original_BH_FDR_independently_verified	PASS

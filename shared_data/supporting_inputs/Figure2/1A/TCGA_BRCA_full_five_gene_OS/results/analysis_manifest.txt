@@ -1,0 +1,11 @@
+analysis_time: 2026-09-04 12:49:21 CST
+cohort: TCGA-BRCA full primary-tumor cohort represented by exprTrain/status
+primary_eligibility: finite OS time > 0; binary status; complete target-gene expression
+endpoint: overall survival; status 1=death, 0=censored
+expression: log2(TPM+1)
+prespecified_primary_split: within-cohort median, High > median
+continuous_model: per 1 SD log2(TPM+1)
+best_cutoff: maxstat LogRank; 20%-80%; condMC B=99999
+multiple_testing: BH across five genes
+exprTrain.txt_md5: 9f9ce3f65591593f6092b6a908bc2244
+status.txt_md5: 62da187f090c5032e1c374ade7f907b8

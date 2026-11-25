@@ -1,0 +1,11 @@
+check	passed
+top10_contains_exactly_10_terms	TRUE
+top10_is_natural_raw_P_order	TRUE
+AMFs_is_not_forced_and_remains_rank_1	TRUE
+AMFs_has_no_special_point_style	TRUE
+point_area_scale_uses_observed_counts_and_smaller_maximum	TRUE
+BH_FDR_is_retained_from_joint_analysis	TRUE
+all_drawn_text_is_at_least_10_pt	TRUE
+no_extra_plot_title	TRUE
+all_exports_exist	TRUE
+all_bundle_files_start_with_Figure1B	TRUE

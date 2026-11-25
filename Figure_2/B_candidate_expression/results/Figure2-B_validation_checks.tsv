@@ -1,0 +1,10 @@
+check	observed	expected	pass
+five genes mapped one-to-one	TRUE	TRUE	TRUE
+expected sample counts in every gene/group	TRUE	TRUE	TRUE
+group order is TN, non-TN, Normal	TRUE	TRUE	TRUE
+ten planned tests completed	10	10	TRUE
+each gene has both required comparisons	TRUE	TRUE	TRUE
+all P/FDR values finite	TRUE	TRUE	TRUE
+main figure contains three requested genes	TRUE	TRUE	TRUE
+supplement contains two requested genes	TRUE	TRUE	TRUE
+all main and supplementary outputs created	TRUE	TRUE	TRUE

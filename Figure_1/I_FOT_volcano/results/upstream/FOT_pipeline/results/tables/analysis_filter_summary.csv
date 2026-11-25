@@ -1,0 +1,9 @@
+metric,n
+source_proteins,7347
+unique_peptides_ge_5,3360
+free_ge_2_and_polysome_2,4324
+primary_tested_both_filters,2674
+complete_case_primary_filter,2590
+polysome_detection_only_2of2_vs_0of3,39
+free_detection_only_3of3_vs_0of2,374
+free_detection_only_atleast2of3_vs_0of2,378

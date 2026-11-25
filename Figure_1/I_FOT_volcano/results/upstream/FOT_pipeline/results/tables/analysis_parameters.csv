@@ -1,0 +1,17 @@
+parameter,value
+input_xlsx,/Volumes/T7 Shield/important重要的项目/06廖老师相关工作/dongyiming/08polysome/cloud_report_312553/2-Basic_analysis/MS_identified_information.xlsx
+input_sheet,Protein_quant
+main_samples,"free_1,free_2,free_3,polysome_1,polysome_2"
+excluded_sample,polysome_3
+FOT_numerator,vendor Normalized intensity (not iBAQ)
+FOT_denominator,sum of all positive non-decoy/non-contaminant normalized intensities per sample before Unique-peptide filtering
+iFOT_scale,100000
+unique_peptides_min,5
+min_observed_per_group,2
+log2fc_threshold,1
+fdr_threshold,0.05
+raw_p_threshold,0.05
+primary_model,"limma eBayes(trend=TRUE, robust=TRUE) plus TREAT(lfc=1)"
+primary_missing_value_policy,No imputation; require at least two observed values per group; detection-only proteins reported separately
+dropout_model_sensitivity,proDA probabilistic intensity-dependent dropout model; UP>=5 and at least 2/5 observations
+random_seed,20260928
